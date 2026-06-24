@@ -83,20 +83,20 @@ Bei jedem Push auf `main` (oder den Entwicklungsbranch) läuft `.github/workflow
 1. **validate** — `npm ci`, JSON-Struktur prüfen, Headless-UI-Test.
 2. **deploy** — `./public` als Artefakt hochladen und auf **GitHub Pages** veröffentlichen.
 
-### Einmalige Einrichtung (im Repo nötig)
+GitHub Pages wird dabei vom Workflow **automatisch aktiviert** (`actions/configure-pages`
+mit `enablement: true` + `permissions: pages: write`). Ein manueller Settings-Schritt ist
+in der Regel nicht nötig.
 
-Damit das Deployment greift, muss GitHub Pages auf **GitHub Actions** als Quelle gestellt werden:
-
-> **Repo → Settings → Pages → Build and deployment → Source: „GitHub Actions“**
-
-Danach ist die Seite erreichbar unter:
+**Live unter:**
 
 ```
-https://htxy992.github.io/bapruefung/
+https://htxy992.github.io/baPruefung/
 ```
 
-Läuft das Deployment von einem Feature-Branch und wird durch die Environment-Schutzregeln blockiert,
-entweder nach `main` mergen **oder** unter *Settings → Environments → github-pages* den Branch erlauben.
+> Sollte die Auto-Aktivierung durch Organisations-/Repo-Richtlinien blockiert sein, einmalig
+> *Settings → Pages → Build and deployment → Source: „GitHub Actions"* setzen. Wird ein
+> Feature-Branch durch Environment-Schutzregeln blockiert: nach `main` mergen **oder** unter
+> *Settings → Environments → github-pages* den Branch erlauben.
 
 ## 📄 Datenschutz
 
