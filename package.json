@@ -1,0 +1,17 @@
+{
+  "name": "bapruefung-begriffsrunde-quiz",
+  "version": "1.0.0",
+  "description": "Interaktives Multiple-Choice-Quiz zur Vorbereitung auf die Begriffsrunde (Prüfungsteil 3) der kommissionellen Bachelorprüfung – Fertigungstechnik, Marketing, Prozessmanagement.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "uitest": "node scripts/uitest.js",
+    "test": "node scripts/validate.js && node scripts/uitest.js",
+    "assemble": "python3 scripts/assemble.py",
+    "serve": "cd public && python3 -m http.server 8099"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}

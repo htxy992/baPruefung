@@ -1,0 +1,4132 @@
+{
+  "meta": {
+    "generated": "2026-06-24",
+    "totalQuestions": 240,
+    "terms": 55,
+    "fields": 3
+  },
+  "fields": [
+    "Fertigungstechnik",
+    "Marketing",
+    "Prozessmanagement"
+  ],
+  "terms": [
+    {
+      "id": "1.1",
+      "field": "Fertigungstechnik",
+      "title": "Systematik der Fertigungsverfahren"
+    },
+    {
+      "id": "1.2",
+      "field": "Fertigungstechnik",
+      "title": "Fertigungshauptgruppen"
+    },
+    {
+      "id": "1.3",
+      "field": "Fertigungstechnik",
+      "title": "Fertigungsverfahren „Trennen“"
+    },
+    {
+      "id": "1.4",
+      "field": "Fertigungstechnik",
+      "title": "Trennen mit geometrisch bestimmter / unbestimmter Schneide"
+    },
+    {
+      "id": "1.5",
+      "field": "Fertigungstechnik",
+      "title": "Beispiele für Umform-Verfahren"
+    },
+    {
+      "id": "1.6",
+      "field": "Fertigungstechnik",
+      "title": "Beispiele für Urform-Verfahren"
+    },
+    {
+      "id": "1.7",
+      "field": "Fertigungstechnik",
+      "title": "Beispiele für spanende Fertigung"
+    },
+    {
+      "id": "1.8",
+      "field": "Fertigungstechnik",
+      "title": "3D-Druck Metall: Verfahren, Vorteile, Nachteile"
+    },
+    {
+      "id": "1.9",
+      "field": "Fertigungstechnik",
+      "title": "Grundlagen Schnittkräfte beim Drehen"
+    },
+    {
+      "id": "1.10",
+      "field": "Fertigungstechnik",
+      "title": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit"
+    },
+    {
+      "id": "1.11",
+      "field": "Fertigungstechnik",
+      "title": "Laserstrahl-Bearbeitung"
+    },
+    {
+      "id": "1.12",
+      "field": "Fertigungstechnik",
+      "title": "Wasserstrahl-Bearbeitung"
+    },
+    {
+      "id": "1.13",
+      "field": "Fertigungstechnik",
+      "title": "Schweißen"
+    },
+    {
+      "id": "1.14",
+      "field": "Fertigungstechnik",
+      "title": "Fügeverfahren"
+    },
+    {
+      "id": "1.15",
+      "field": "Fertigungstechnik",
+      "title": "Robotik in der Fertigung"
+    },
+    {
+      "id": "2.1",
+      "field": "Marketing",
+      "title": "Definition von Marketing"
+    },
+    {
+      "id": "2.2",
+      "field": "Marketing",
+      "title": "Schritte im Marketing-Prozess"
+    },
+    {
+      "id": "2.3",
+      "field": "Marketing",
+      "title": "SWOT-Analyse: Methode"
+    },
+    {
+      "id": "2.4",
+      "field": "Marketing",
+      "title": "Strategie: Umwelt-Analyse PESTEL"
+    },
+    {
+      "id": "2.5",
+      "field": "Marketing",
+      "title": "Branchen-Analyse: Porter’s Five Forces"
+    },
+    {
+      "id": "2.6",
+      "field": "Marketing",
+      "title": "Marktforschung: Arten, Methoden, Vor- und Nachteile"
+    },
+    {
+      "id": "2.7",
+      "field": "Marketing",
+      "title": "Kommunikation: Inhalte, Botschaften"
+    },
+    {
+      "id": "2.8",
+      "field": "Marketing",
+      "title": "Kommunikation: Medien, Mediaplanung, Mediaplan"
+    },
+    {
+      "id": "2.9",
+      "field": "Marketing",
+      "title": "Positionierung: Definition, Beispiele"
+    },
+    {
+      "id": "2.10",
+      "field": "Marketing",
+      "title": "Innovation: Erfolgskriterien für die Durchsetzung"
+    },
+    {
+      "id": "2.11",
+      "field": "Marketing",
+      "title": "Produktlebenszyklus: Phasen, Strategien"
+    },
+    {
+      "id": "2.12",
+      "field": "Marketing",
+      "title": "Digitale Kommunikation / Onlinewerbung"
+    },
+    {
+      "id": "2.13",
+      "field": "Marketing",
+      "title": "Marketing-Instrumente / Marketing-Mix"
+    },
+    {
+      "id": "2.14",
+      "field": "Marketing",
+      "title": "Marktstrategien (Ansoff-Matrix; Speerspitze vs. Sortiment)"
+    },
+    {
+      "id": "2.15",
+      "field": "Marketing",
+      "title": "Marken: Arten und Strategien"
+    },
+    {
+      "id": "2.16",
+      "field": "Marketing",
+      "title": "Markenkernwerte (Definition, Entwicklung)"
+    },
+    {
+      "id": "2.17",
+      "field": "Marketing",
+      "title": "Preispolitik: Preisfestsetzung, Preis-Strategien"
+    },
+    {
+      "id": "2.18",
+      "field": "Marketing",
+      "title": "Distribution / Vertrieb"
+    },
+    {
+      "id": "2.19",
+      "field": "Marketing",
+      "title": "Zielgruppen im B2B-Marketing, Buying Center"
+    },
+    {
+      "id": "2.20",
+      "field": "Marketing",
+      "title": "Innovation: Evolution, Revolution, Disruption, Blue Ocean, Diffusion"
+    },
+    {
+      "id": "3.1",
+      "field": "Prozessmanagement",
+      "title": "Effizienzprobleme in Prozessen"
+    },
+    {
+      "id": "3.2",
+      "field": "Prozessmanagement",
+      "title": "End-to-End-Geschäftsprozess"
+    },
+    {
+      "id": "3.3",
+      "field": "Prozessmanagement",
+      "title": "Digitale Transformation"
+    },
+    {
+      "id": "3.4",
+      "field": "Prozessmanagement",
+      "title": "Business Reengineering"
+    },
+    {
+      "id": "3.5",
+      "field": "Prozessmanagement",
+      "title": "Prozess-Idee"
+    },
+    {
+      "id": "3.6",
+      "field": "Prozessmanagement",
+      "title": "Kernprozesse und Supportprozesse"
+    },
+    {
+      "id": "3.7",
+      "field": "Prozessmanagement",
+      "title": "Prozesslandkarte"
+    },
+    {
+      "id": "3.8",
+      "field": "Prozessmanagement",
+      "title": "Segmentierung von Prozessen"
+    },
+    {
+      "id": "3.9",
+      "field": "Prozessmanagement",
+      "title": "Technologien zur Prozessdigitalisierung (Big Data, KI, RPA usw.)"
+    },
+    {
+      "id": "3.10",
+      "field": "Prozessmanagement",
+      "title": "Cynefin-Modell und Zuordnung der Prozesstypen"
+    },
+    {
+      "id": "3.11",
+      "field": "Prozessmanagement",
+      "title": "Entwicklung von Digitalisierungsideen mit Customer Journey Mapping"
+    },
+    {
+      "id": "3.12",
+      "field": "Prozessmanagement",
+      "title": "Abwicklung von Prozessdigitalisierungsprojekten mit Scrum"
+    },
+    {
+      "id": "3.13",
+      "field": "Prozessmanagement",
+      "title": "Stage-Gate Prozess"
+    },
+    {
+      "id": "3.14",
+      "field": "Prozessmanagement",
+      "title": "Erfolgsfaktoren des Innovationsmanagements"
+    },
+    {
+      "id": "3.15",
+      "field": "Prozessmanagement",
+      "title": "Projekt-Portfolio-Management"
+    },
+    {
+      "id": "3.16",
+      "field": "Prozessmanagement",
+      "title": "Umsetzung der Innovationsstrategie sicherstellen"
+    },
+    {
+      "id": "3.17",
+      "field": "Prozessmanagement",
+      "title": "Maximieren des Wertes des Portfolios"
+    },
+    {
+      "id": "3.18",
+      "field": "Prozessmanagement",
+      "title": "Die richtige Balance des Portfolios"
+    },
+    {
+      "id": "3.19",
+      "field": "Prozessmanagement",
+      "title": "Die richtige Anzahl an Projekten"
+    },
+    {
+      "id": "3.20",
+      "field": "Prozessmanagement",
+      "title": "Maßnahmen zur Beschleunigung des Produktentwicklungsprozesses"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1.1-1",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Wie viele Hauptgruppen unterscheidet die DIN 8580 zur Ordnung der Fertigungsverfahren?",
+      "options": [
+        "Vier Hauptgruppen",
+        "Fünf Hauptgruppen",
+        "Sechs Hauptgruppen",
+        "Acht Hauptgruppen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Quellentext ordnet die DIN 8580 alle Fertigungsverfahren widerspruchsfrei in sechs Hauptgruppen.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.1-2",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Welches Kriterium ist nach DIN 8580 das zentrale Einteilungskriterium der Hauptgruppen?",
+      "options": [
+        "Das Ändern des Stoffzusammenhalts",
+        "Die Höhe der Fertigungskosten",
+        "Der verwendete Werkstoff",
+        "Die erreichbare Oberflächengüte"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text nennt das Ändern des Stoffzusammenhalts als Einteilungskriterium: Ein Zusammenhalt wird geschaffen, beibehalten, vermindert oder vermehrt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.1-3",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Welche vier Möglichkeiten gibt es laut Text, wie sich der Stoffzusammenhalt ändern kann?",
+      "options": [
+        "Erwärmen, abkühlen, pressen, lösen",
+        "Schaffen, beibehalten, vermindern, vermehren",
+        "Schneiden, gießen, schweißen, härten",
+        "Trennen, fügen, formen, prüfen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Zusammenhalt wird laut Text erstmals geschaffen, beibehalten, vermindert oder vermehrt - diese vier Verben sind der Schlüssel zur Systematik.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.1-4",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Welche Hauptgruppe schafft den Stoffzusammenhalt erstmals?",
+      "options": [
+        "Umformen",
+        "Trennen",
+        "Urformen",
+        "Fügen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Merklogik des Textes schafft Urformen den Zusammenhalt: Aus formlosem Pulver oder Schmelze entsteht ein fester Körper.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.1-5",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Was bedeutet die Aussage, dass die DIN 8580 die Verfahren \"widerspruchsfrei\" ordnet?",
+      "options": [
+        "Jedes denkbare Verfahren fällt in genau eine Hauptgruppe",
+        "Jedes Verfahren kann mehreren Hauptgruppen zugeordnet werden",
+        "Nur die wichtigsten Verfahren werden eingeordnet",
+        "Die Verfahren werden nach Kosten widerspruchsfrei sortiert"
+      ],
+      "correctIndex": 0,
+      "explanation": "Widerspruchsfrei heißt laut Text: Jedes denkbare Verfahren fällt in genau eine Hauptgruppe - keine Mehrdeutigkeit, keine Lücke.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.1-6",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Warum ist eine Norm wie die DIN 8580 überhaupt notwendig?",
+      "options": [
+        "Weil sie die Fertigungskosten gesetzlich begrenzt",
+        "Weil ohne gemeinsames Ordnungsraster die mehreren tausend Verfahren weder vergleichbar noch eindeutig benennbar wären",
+        "Weil sie die Anzahl zulässiger Verfahren auf sechs reduziert",
+        "Weil internationale Handelsabkommen sie vorschreiben"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text begründet die Norm damit, dass es mehrere tausend Verfahren gibt und man sie ohne gemeinsames Ordnungsraster weder vergleichen noch eindeutig benennen könnte.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.1-7",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Welche Aussage zum zweiten Einteilungskriterium der Systematik trifft zu?",
+      "options": [
+        "Es unterscheidet zwischen manueller und maschineller Fertigung",
+        "Es unterscheidet zwischen Formgeben und Stoffeigenschaftändern",
+        "Es unterscheidet zwischen Serien- und Einzelfertigung",
+        "Es unterscheidet zwischen warmen und kalten Verfahren"
+      ],
+      "correctIndex": 1,
+      "explanation": "Neben dem Stoffzusammenhalt nennt der Text als zweites Kriterium die Unterscheidung von Formgeben und Stoffeigenschaftändern.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.1-8",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Worin unterscheidet sich die sechste Hauptgruppe von den ersten fünf Hauptgruppen?",
+      "options": [
+        "Sie verändert die Geometrie besonders stark",
+        "Sie greift nicht die Form, sondern gezielt die Werkstoffeigenschaften an",
+        "Sie ist die einzige, die Material hinzufügt",
+        "Sie fasst alle übrigen Verfahren als Restkategorie zusammen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Die ersten fünf Hauptgruppen verändern die Geometrie, die sechste greift dagegen nicht die Form, sondern gezielt die Werkstoffeigenschaften an, etwa Härte durch Wärmebehandlung.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.1-9",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Welche Reihenfolge gibt der Text für das hierarchische Ordnungsprinzip an?",
+      "options": [
+        "Gruppe vor Hauptgruppe vor Untergruppe",
+        "Untergruppe vor Gruppe vor Hauptgruppe",
+        "Hauptgruppe vor Gruppe vor Untergruppe",
+        "Hauptgruppe vor Untergruppe vor Gruppe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Das Ordnungsprinzip ist laut Text hierarchisch aufgebaut: Hauptgruppe vor Gruppe vor Untergruppe.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.1-10",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Welche Zuordnung von Hauptgruppe und Wirkung auf den Stoffzusammenhalt ist korrekt?",
+      "options": [
+        "Umformen behält den Zusammenhalt bei",
+        "Trennen vermehrt den Zusammenhalt",
+        "Urformen vermindert den Zusammenhalt",
+        "Fügen schafft den Zusammenhalt erstmals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Merklogik des Textes behält Umformen den Zusammenhalt bei: Die Form ändert sich, aber kein Material kommt hinzu oder geht verloren.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.1-11",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Mit welchem Beispiel veranschaulicht der Text die Untergliederung der Hauptgruppe Trennen?",
+      "options": [
+        "Trennen vor Schweißen vor Löten",
+        "Trennen vor Spanen mit geometrisch bestimmter Schneide vor Drehen",
+        "Trennen vor Gießen vor Sintern",
+        "Trennen vor Umformen vor Biegen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text nennt als Beispiel für die Hierarchie: Trennen vor Spanen mit geometrisch bestimmter Schneide vor Drehen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.1-12",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Warum kann Schweißen laut Text niemals zur Hauptgruppe Trennen gehören?",
+      "options": [
+        "Weil Schweißen den Zusammenhalt beibehält",
+        "Weil Schweißen vermehrt und Trennen vermindert",
+        "Weil Schweißen die Werkstoffeigenschaften ändert",
+        "Weil Schweißen den Zusammenhalt erstmals schafft"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text erklärt: Schweißen vermehrt den Zusammenhalt (Fügen) und kann damit niemals zu Trennen gehören, das vermindert.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.1-13",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Im Anwendungsbeispiel werden an einem Motorgehäuse mehrere Prozessschritte durchgeführt. Welcher Hauptgruppe ist das Lackieren zuzuordnen?",
+      "options": [
+        "Urformen",
+        "Trennen",
+        "Beschichten",
+        "Stoffeigenschaftändern"
+      ],
+      "correctIndex": 2,
+      "explanation": "Im Beispiel wird das anschließende Lackieren der Hauptgruppe Beschichten zugeordnet, da eine Schicht aufgebracht und somit der Zusammenhalt vermehrt wird.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.1-14",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Wie viele der sechs Hauptgruppen treten laut dem Anwendungsbeispiel allein am beschriebenen Motorgehäuse auf?",
+      "options": [
+        "Drei Hauptgruppen",
+        "Vier Hauptgruppen",
+        "Fünf Hauptgruppen",
+        "Sechs Hauptgruppen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text betont, dass durch Urformen, Trennen, Beschichten und Stoffeigenschaftändern vier der sechs Hauptgruppen an einem Bauteil auftreten.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.1-15",
+      "termId": "1.1",
+      "field": "Fertigungstechnik",
+      "termTitle": "Systematik der Fertigungsverfahren",
+      "question": "Welchen praktischen Nutzen ermöglicht laut Text erst die eindeutige Benennung jedes Prozessschritts?",
+      "options": [
+        "Die automatische Senkung der Materialkosten",
+        "Die Zuordnung von Arbeitsplan, Kalkulation oder Qualitätsprüfung Schritt für Schritt",
+        "Den Verzicht auf eine Wärmebehandlung",
+        "Die Reduktion der Verfahren auf vier Hauptgruppen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text erlaubt erst die Eindeutigkeit, einen Arbeitsplan, eine Kalkulation oder eine Qualitätsprüfung Schritt für Schritt zuzuordnen.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.2-1",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Wie viele Hauptgruppen umfasst die DIN 8580?",
+      "options": [
+        "Sechs",
+        "Vier",
+        "Fünf",
+        "Acht"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text definiert die DIN 8580 genau sechs Hauptgruppen: Urformen, Umformen, Trennen, Fügen, Beschichten und Stoffeigenschaftändern.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.2-2",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Welche der folgenden Aufzählungen gibt die sechs Hauptgruppen der DIN 8580 korrekt wieder?",
+      "options": [
+        "Urformen, Umformen, Trennen, Fügen, Beschichten, Stoffeigenschaftändern",
+        "Gießen, Walzen, Fräsen, Schweißen, Lackieren, Härten",
+        "Urformen, Spanen, Trennen, Löten, Veredeln, Vergüten",
+        "Formen, Umformen, Schneiden, Verbinden, Überziehen, Wärmebehandeln"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text nennt die sechs Hauptgruppen ausdrücklich als Urformen, Umformen, Trennen, Fügen, Beschichten und Stoffeigenschaftändern.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.2-3",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Welche Hauptgruppe erzeugt aus formlosem Stoff wie Schmelze oder Pulver erstmals einen festen Körper?",
+      "options": [
+        "Umformen",
+        "Urformen",
+        "Trennen",
+        "Beschichten"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text erzeugt Urformen aus formlosem Stoff (Schmelze, Pulver) erstmals einen festen Körper; Leitbeispiele sind Gießen und Sintern.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.2-4",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Welche beiden Verfahren werden im Text als Leitbeispiele für das Umformen genannt?",
+      "options": [
+        "Gießen und Sintern",
+        "Fräsen und Brennschneiden",
+        "Walzen und Schmieden",
+        "Schrauben und Schweißen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Text nennt Walzen und Schmieden als Beispiele für das Umformen, das die Gestalt rein plastisch ohne Materialverlust ändert.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.2-5",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Zu welcher Hauptgruppe gehört das Schweißen?",
+      "options": [
+        "Trennen",
+        "Urformen",
+        "Fügen",
+        "Stoffeigenschaftändern"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Prüfungstipp gehört Schweißen zu Fügen (Hauptgruppe 4), weil es den Zusammenhalt vermehrt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.2-6",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Was kennzeichnet das Umformen im Unterschied zum Trennen?",
+      "options": [
+        "Die Gestalt wird rein plastisch ohne Materialverlust geändert",
+        "Der Zusammenhalt wird örtlich aufgehoben",
+        "Aus formlosem Stoff entsteht erstmals ein fester Körper",
+        "Eine fest haftende Schicht wird aufgebracht"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text beschreibt Umformen als rein plastische Gestaltänderung ohne Materialverlust, während Trennen den Zusammenhalt örtlich aufhebt.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.2-7",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Warum vermehren sowohl Fügen als auch Beschichten den Zusammenhalt, und worin unterscheiden sie sich?",
+      "options": [
+        "Beide verlieren Material; der Unterschied liegt im thermischen oder mechanischen Prinzip",
+        "Beide ändern die Eigenschaften; der Unterschied liegt in Wärme oder Diffusion",
+        "Beide verbinden etwas dauerhaft; der Unterschied ist, ob zwei Bauteile oder ein Bauteil und eine Schicht verbunden werden",
+        "Beide schaffen Zusammenhalt neu; der Unterschied liegt in Schmelze oder Pulver"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Text vermehren beide den Zusammenhalt; der Unterschied ist nur, ob zwei Bauteile (Fügen) oder ein Bauteil und eine Schicht (Beschichten) verbunden werden.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.2-8",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Welche Aussage zur Reihenfolge der Hauptgruppen 1 bis 6 trifft zu?",
+      "options": [
+        "Die Reihenfolge ist zufällig gewählt und ohne inhaltliche Logik",
+        "Die Reihenfolge folgt grob dem Lebensweg eines Bauteils",
+        "Die Reihenfolge richtet sich nach der Häufigkeit der Verfahren",
+        "Die Reihenfolge ist alphabetisch nach den Gruppennamen geordnet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text betont, dass die Reihenfolge nicht zufällig ist, sondern grob dem Lebensweg eines Bauteils folgt: vom Entstehen bis zum Einstellen der Eigenschaften.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.2-9",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Welche Hauptgruppen ändern laut Text primär die Form eines Bauteils?",
+      "options": [
+        "Hauptgruppen 1 bis 3",
+        "Hauptgruppen 4 bis 5",
+        "Nur Hauptgruppe 6",
+        "Hauptgruppen 4 bis 6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text ändern die Hauptgruppen 1 bis 3 primär die Form, 4 bis 5 vermehren den Zusammenhalt und Gruppe 6 ändert die Eigenschaften.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.2-10",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Warum steht in der Tabelle beim Stoffeigenschaftändern bewusst kein Zusammenhalt-Verb?",
+      "options": [
+        "Weil diese Gruppe den Zusammenhalt vermindert wie das Trennen",
+        "Weil das Kriterium hier ein anderes ist und die Form unberührt bleibt",
+        "Weil sie zugleich Zusammenhalt schafft und vermehrt",
+        "Weil sie noch keiner DIN-Nummer zugeordnet werden konnte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text erklärt, dass beim Stoffeigenschaftändern die Form unberührt bleibt und das Kriterium ein anderes ist, weshalb dort kein Zusammenhalt-Verb steht.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.2-11",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Ordne das Brennschneiden der korrekten Hauptgruppe zu.",
+      "options": [
+        "Fügen, weil es Teile dauerhaft verbindet",
+        "Urformen, weil es einen festen Körper schafft",
+        "Trennen, weil es den Zusammenhalt vermindert",
+        "Beschichten, weil es eine Schicht aufbringt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Prüfungstipp vermindert Brennschneiden den Zusammenhalt und ist Trennen (Abtragen), im Gegensatz zum Schweißen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.2-12",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Wie lautet die DIN-Nummernkette der Gruppen innerhalb des Trennens in der korrekten Reihenfolge?",
+      "options": [
+        "Zerteilen (8588) – Spanen (8589) – Abtragen (8590) – Zerlegen (8591) – Reinigen (8592)",
+        "Zerteilen (8588) – Abtragen (8589) – Spanen (8590) – Reinigen (8591) – Zerlegen (8592)",
+        "Spanen (8588) – Zerteilen (8589) – Zerlegen (8590) – Abtragen (8591) – Reinigen (8592)",
+        "Zerteilen (8588) – Spanen (8589) – Zerlegen (8590) – Abtragen (8591) – Reinigen (8592)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text gibt die Kette für Trennen als Zerteilen (8588), Spanen (8589), Abtragen (8590), Zerlegen (8591), Reinigen (8592) an.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.2-13",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Welche Besonderheit gilt laut Text als häufigster Stolperstein innerhalb der DIN-Nummernkette des Trennens?",
+      "options": [
+        "Dass Zerteilen und Reinigen dieselbe Nummer 8588 teilen",
+        "Dass Spanen mit bestimmter und mit unbestimmter Schneide sich beide die Nummer 8589 teilen",
+        "Dass Abtragen und Zerlegen beide unter 8590 geführt werden",
+        "Dass Reinigen keine eigene DIN-Nummer besitzt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text ist der häufigste Stolperstein, dass die beiden Spangruppen (mit bestimmter und mit unbestimmter Schneide) sich dieselbe Nummer 8589 teilen.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.2-14",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Ein Bauteil wird durch Glühen behandelt. Welche Aussage trifft gemäß der Systematik zu?",
+      "options": [
+        "Es handelt sich um Trennen, da der Zusammenhalt örtlich aufgehoben wird",
+        "Es handelt sich um Stoffeigenschaftändern, da die Form unberührt bleibt und über Wärme die Eigenschaften eingestellt werden",
+        "Es handelt sich um Urformen, da aus formlosem Stoff ein fester Körper entsteht",
+        "Es handelt sich um Beschichten, da eine fest haftende Schicht aufgebracht wird"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text ordnet Glühen dem Stoffeigenschaftändern zu, das die Form unberührt lässt und über Wärme oder Diffusion die Eigenschaften einstellt.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.2-15",
+      "termId": "1.2",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungshauptgruppen",
+      "question": "Welche Eselsbrücke nennt der Text, um Trennen sicher von anderen Gruppen abzugrenzen?",
+      "options": [
+        "Wo die Form plastisch geändert wird, ist es immer Umformen",
+        "Wo Wärme im Spiel ist, kann es nie Trennen sein",
+        "Wo aus Pulver ein Körper entsteht, ist es immer Urformen",
+        "Wo Material hinzukommt oder verbunden wird, kann es nie Trennen sein"
+      ],
+      "correctIndex": 3,
+      "explanation": "Laut Prüfungstipp gilt die Eselsbrücke: Wo Material hinzukommt oder verbunden wird, kann es nie Trennen sein.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.3-1",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Wie definiert das Skript das Fertigungsverfahren \"Trennen\"?",
+      "options": [
+        "Fertigen durch Ändern der Form eines festen Körpers, wobei der Zusammenhalt örtlich aufgehoben, also im Ganzen vermindert wird",
+        "Fertigen durch Schaffen von Zusammenhalt aus formlosem Stoff, wobei eine bestimmte Form entsteht",
+        "Fertigen durch Ändern der Form eines festen Körpers, wobei der Zusammenhalt vollständig erhalten bleibt",
+        "Fertigen durch Ändern der Stoffeigenschaften eines Körpers, wobei dessen Form unverändert bleibt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Quellentext definiert Trennen als Fertigen durch Ändern der Form eines festen Körpers, wobei der Zusammenhalt örtlich aufgehoben, also im Ganzen vermindert wird.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.3-2",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "In wie viele Gruppen gliedert sich die Hauptgruppe \"Trennen\" laut Skript?",
+      "options": [
+        "Vier Gruppen",
+        "Fünf Gruppen",
+        "Sechs Gruppen",
+        "Sieben Gruppen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Text gliedert sich die Hauptgruppe in sechs Gruppen: Zerteilen, Spanen mit bestimmter Schneide, Spanen mit unbestimmter Schneide, Abtragen, Zerlegen und Reinigen.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.3-3",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Welches Schlüsselwort der Definition grenzt das Trennen vom Umformen und Urformen ab?",
+      "options": [
+        "\"im Ganzen vermindert\"",
+        "\"örtlich aufgehoben\"",
+        "\"fester Körper\"",
+        "\"Ändern der Form\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Das Skript nennt \"örtlich aufgehoben\" als Schlüsselwort: Der Zusammenhalt wird nur lokal an der Trennstelle gelöst und in der Bilanz über das Werkstück vermindert.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.3-4",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Warum gilt Trennen laut Skript als die wichtigste Hauptgruppe der Praxis?",
+      "options": [
+        "Weil es das schnellste und kostengünstigste aller Fertigungsverfahren ist",
+        "Weil sich Maß- und Oberflächengüte auf Endniveau praktisch nur durch Materialabnahme erreichen lassen",
+        "Weil es ohne jegliche Werkzeuge und Betriebsmittel auskommt",
+        "Weil es als einziges Verfahren formlose Stoffe in Bauteile überführen kann"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text begründet die Bedeutung damit, dass fast jedes präzise Metallbauteil ein Trennverfahren durchläuft, weil sich Maß- und Oberflächengüte auf Endniveau praktisch nur durch Materialabnahme erreichen lassen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.3-5",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Wodurch unterscheidet sich Trennen vom Umformen und vom Urformen hinsichtlich des Zusammenhalts?",
+      "options": [
+        "Beim Trennen bleibt der Zusammenhalt, beim Umformen wird er vermindert, beim Urformen entsteht er",
+        "Beim Trennen wird der Zusammenhalt vermindert, beim Umformen bleibt er, beim Urformen entsteht er",
+        "Beim Trennen entsteht der Zusammenhalt, beim Umformen bleibt er, beim Urformen wird er vermindert",
+        "Beim Trennen wird der Zusammenhalt vermindert, beim Umformen entsteht er, beim Urformen bleibt er"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text wird beim Trennen der Zusammenhalt vermindert, beim Umformen bleibt er erhalten und beim Urformen entsteht er.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.3-6",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Welche Gruppen dominieren laut Skript industriell innerhalb des Trennens?",
+      "options": [
+        "Die beiden Spangruppen sowie das Zerteilen",
+        "Das Abtragen sowie das Zerlegen",
+        "Das Reinigen sowie das Zerteilen",
+        "Das Zerlegen sowie die beiden Spangruppen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text hält fest, dass industriell die beiden Spangruppen sowie das Zerteilen (v. a. Scherschneiden) dominieren.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.3-7",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Wie ist der Begriff \"Span\" laut Skript wörtlich zu verstehen?",
+      "options": [
+        "Als die thermisch aufgeschmolzene Randzone an der Trennstelle",
+        "Als das im Werkstück verbleibende, verdichtete Restmaterial",
+        "Als ein abgetrenntes Stück Werkstoff, das die Schneide vor sich her abhebt",
+        "Als der durch chemische Wirkung aufgelöste Materialanteil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Das Skript fordert, den Begriff \"Span\" wörtlich zu nehmen: ein abgetrenntes Stück Werkstoff, das die Schneide vor sich her abhebt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.3-8",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Welche Aussage zum Abtragen (DIN 8590) trifft laut Text zu?",
+      "options": [
+        "Es trennt mechanisch über eine bestimmte Schneide, die einen Span abhebt",
+        "Es trennt nicht mechanisch, sondern löst oder verdampft Material über thermische, chemische oder elektrochemische Wirkung",
+        "Es trennt durch Scherschneiden ganz ohne Span",
+        "Es schafft Zusammenhalt durch Auftragen von Material auf die Trennstelle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text ist Abtragen der Sonderfall, der nicht mechanisch trennt, sondern über thermische, chemische oder elektrochemische Wirkung Material auflöst oder verdampft.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.3-9",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Welches Beispiel nennt das Skript als wichtigstes Beispiel für das Abtragen?",
+      "options": [
+        "Das Bohren von Vias in Leiterplatten",
+        "Das Scherschneiden von Blechen",
+        "Das thermische Zuschneiden von Rohteilen für Schweißkonstruktionen",
+        "Das Demontieren von Baugruppen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Text nennt als wichtigstes Beispiel für das Abtragen das thermische Zuschneiden von Rohteilen für Schweißkonstruktionen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.3-10",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Welches Verfahren ist laut Skript beim Abtragen \"auf dem Vormarsch\"?",
+      "options": [
+        "Das Wasserstrahlschneiden",
+        "Das Laserschneiden",
+        "Das Funkenerodieren",
+        "Das Plasmaschneiden"
+      ],
+      "correctIndex": 0,
+      "explanation": "Das Skript hält ausdrücklich fest, dass das Wasserstrahlschneiden auf dem Vormarsch ist.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.3-11",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Welche beiden Trenngruppen werden im Skript ausdrücklich als untergeordnet bezeichnet?",
+      "options": [
+        "Zerteilen (8588) und Abtragen (8590)",
+        "Zerlegen (8591) und Reinigen (8592)",
+        "Spanen mit bestimmter und mit unbestimmter Schneide",
+        "Reinigen (8592) und Zerteilen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text bezeichnet Zerlegen (8591, z. B. Entleeren, Demontieren) und Reinigen (8592) ausdrücklich als untergeordnet.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.3-12",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Welche der vier Bedingungen nennt das Skript NICHT als Kriterium dafür, wann spanend gefertigt wird?",
+      "options": [
+        "Hohe Anforderungen an Genauigkeit und Oberflächengüte",
+        "Spanbarkeit des Werkstoffs",
+        "Verhältnis von Stückzahl zu Werkzeugkosten",
+        "Verfügbarkeit von formlosem Ausgangsstoff"
+      ],
+      "correctIndex": 3,
+      "explanation": "Die Vierer-Liste des Skripts umfasst Genauigkeit/Oberflächengüte, Spanbarkeit, Stückzahl-zu-Werkzeugkosten und vorhandene Betriebsmittel; die Verfügbarkeit von formlosem Ausgangsstoff gehört nicht dazu.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.3-13",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Welche Logik begründet laut Skript die Wahl des spanenden Fertigens?",
+      "options": [
+        "Spanen ist starr und ungenau, aber sehr schnell und billig, daher bei hohen Stückzahlen",
+        "Spanen ist flexibel und präzise, aber langsamer und teurer, daher bei verlangter Genauigkeit und geringer Stückzahl",
+        "Spanen ist flexibel und billig, daher unabhängig von Genauigkeit und Stückzahl immer vorzuziehen",
+        "Spanen ist langsam und ungenau, daher nur bei sehr hohen Stückzahlen sinnvoll"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text ist Spanen flexibel und präzise, aber langsamer und teurer als formgebundene Verfahren; man wählt es, wo Genauigkeit verlangt ist und die Stückzahl keine teure Form rechtfertigt.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.3-14",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Welche beiden Trennverfahren treten laut Skript bei der industrialisierten HPECT-MX-Leiterplatte der Bachelorarbeit auf?",
+      "options": [
+        "Strukturieren der Kupferlagen durch Ätzen (chemisches Abtragen) und Bohren der Vias (Spanen mit bestimmter Schneide)",
+        "Scherschneiden der Kupferlagen (Zerteilen) und Bohren der Vias (Spanen mit unbestimmter Schneide)",
+        "Strukturieren der Kupferlagen durch Ätzen (Zerlegen) und thermisches Zuschneiden (Abtragen)",
+        "Bohren der Vias (Spanen mit unbestimmter Schneide) und Reinigen der Oberfläche (Reinigen)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text nennt das Strukturieren der Kupferlagen durch Ätzen als chemisches Abtragen (DIN 8590) und das Bohren der Vias als Spanen mit bestimmter Schneide.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.3-15",
+      "termId": "1.3",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fertigungsverfahren „Trennen“",
+      "question": "Welche Aussage zur Entstehung der Leiterbahn auf der HPECT-MX-Leiterplatte trifft laut Skript zu?",
+      "options": [
+        "Die Leiterbahn entsteht additiv durch Auftragen von Kupfer entlang der gewünschten Bahn",
+        "Die Leiterbahn entsteht durch Umformen des Kupfers ohne Materialverlust",
+        "Die Leiterbahn entsteht nicht additiv, sondern indem rundherum überflüssiges Kupfer weggetrennt wird",
+        "Die Leiterbahn entsteht durch Urformen aus formlosem Kupfer in einer Form"
+      ],
+      "correctIndex": 2,
+      "explanation": "Das Skript betont, dass die Leiterbahn nicht additiv entsteht, sondern indem rundherum überflüssiges Kupfer weggetrennt wird.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.4-1",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Was kennzeichnet eine geometrisch bestimmte Schneide?",
+      "options": [
+        "Form und Winkel der Schneide sind definiert und bekannt",
+        "Die Schneiden sind statistisch verteilte Körner",
+        "Die Winkel der Schneide sind grundsätzlich unbekannt",
+        "Das Werkzeug besteht aus gebundenen Schleifkörnern"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text ist bei der geometrisch bestimmten Schneide die Form und der Winkel der Schneide definiert und bekannt (keilförmig mit Frei-, Keil- und Spanwinkel).",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.4-2",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Welches Verfahren zählt zu den Verfahren mit geometrisch unbestimmter Schneide?",
+      "options": [
+        "Drehen",
+        "Fräsen",
+        "Schleifen",
+        "Bohren"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Text ordnet Schleifen, Honen und Läppen der geometrisch unbestimmten Schneide zu, während Drehen, Fräsen und Bohren zur bestimmten Schneide gehören.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.4-3",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Wie lautet die feste Grundbeziehung zwischen den drei Keilwinkeln?",
+      "options": [
+        "α + β + γ = 180°",
+        "α + β + γ = 90°",
+        "α + β = γ",
+        "α · β · γ = 90°"
+      ],
+      "correctIndex": 1,
+      "explanation": "Im Text ist die Grundbeziehung mit α + β + γ = 90° angegeben.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.4-4",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Welche Funktion hat der Freiwinkel α an der bestimmten Schneide?",
+      "options": [
+        "Er steuert vor allem die Spanbildung und die Schnittkraft",
+        "Er bestimmt, wie tief der Keil in den Werkstoff eindringt",
+        "Er sorgt dafür, dass die Freifläche nicht auf der frischen Oberfläche schleift",
+        "Er führt die entstehende Wärme aus der Schneide ab"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Text sorgt der Freiwinkel α dafür, dass die Freifläche nicht auf der frischen Oberfläche schleift, und mindert so die Reibung.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.4-5",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Was versteht man bei einer Schleifscheibe unter ihrer 'Härte'?",
+      "options": [
+        "Den Widerstand der Bindung gegen Kornausbruch",
+        "Die Härte des einzelnen Schleifkorns",
+        "Die Größe der Poren zwischen den Körnern",
+        "Die Geschwindigkeit der Spanabnahme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Prüfungstipp stellt klar, dass die Härte einer Schleifscheibe den Widerstand der Bindung gegen Kornausbruch meint, nicht die Härte des Schleifkorns selbst.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.4-6",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Wodurch unterscheiden sich die beiden Gruppen 'bestimmte' und 'unbestimmte' Schneide grundsätzlich?",
+      "options": [
+        "Nur die unbestimmte Schneide trägt überhaupt Späne ab",
+        "Der Unterschied liegt allein in der Werkzeugschneide",
+        "Die bestimmte Schneide arbeitet ohne Spanabtrag",
+        "Beide Gruppen verwenden statistisch verteilte Körner"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text betont, dass beide Gruppen Späne abtragen und der Unterschied allein in der Werkzeugschneide liegt.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.4-7",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Welche Aussage zum Spanwinkel γ trifft laut Text zu?",
+      "options": [
+        "Je härter der Werkstoff, desto größer wird γ gewählt",
+        "Bei harten und spröden Werkstoffen wird γ negativ",
+        "Ein negativer γ senkt die Schnittkraft und die Antriebsleistung",
+        "γ hat keinen Einfluss auf die Standzeit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text wird bei harten/spröden Werkstoffen und Keramik der Spanwinkel γ negativ, was die Schneide bruchsicherer macht.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.4-8",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Welche Genauigkeit lässt sich mit der unbestimmten Schneide erreichen?",
+      "options": [
+        "Nur mittlere Genauigkeit beim Schruppen",
+        "Höchste Güte, IT5 und besser",
+        "Ausschließlich grobe Vorbearbeitung",
+        "Geringere Güte als mit der bestimmten Schneide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text ordnet der unbestimmten Schneide die Feinbearbeitung mit höchster Güte (IT5 und besser) zu.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.4-9",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Warum kann sich eine Schleifscheibe im Betrieb selbst 'reparieren'?",
+      "options": [
+        "Weil das Bindemittel sich bei Wärme neu verfestigt",
+        "Weil stumpfe Körner ausbrechen und frische, scharfe Körner freilegen",
+        "Weil die Poren neue Körner nachbilden",
+        "Weil der Freiwinkel die Reibung verringert"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text beschreibt die Selbstschärfung: Steigt die Kraft auf ein stumpfes Korn, bricht es aus der Bindung heraus und legt ein frisches, scharfes Korn frei.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.4-10",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Welche Bauteile bilden bei der bestimmten Schneide den Schneidkeil?",
+      "options": [
+        "Span- und Freifläche",
+        "Bindemittel und Poren",
+        "Haupt- und Nebenschneide allein",
+        "Schleifkörner und Spankammern"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text besteht der Schneidkeil aus Span- und Freifläche; über die Spanfläche läuft der Span ab und die Freifläche liegt der erzeugten Oberfläche gegenüber.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.4-11",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Welche Funktion erfüllen die Poren im Schleifkörper?",
+      "options": [
+        "Sie halten die Körner fest in der Bindung",
+        "Sie dienen als Spankammern für den abgetragenen Werkstoff",
+        "Sie bestimmen den Spanwinkel der Körner",
+        "Sie verringern die Härte des Schleifkorns"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text beschreibt, dass die Poren als Spankammern dienen, in denen der abgetragene Werkstoff Platz findet.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.4-12",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Welche Aussage über die Auswahl einer Schleifscheibe nach dem Prüfungstipp ist korrekt?",
+      "options": [
+        "Eine harte Scheibe gibt ihre Körner früh frei und eignet sich für harte Werkstoffe",
+        "Eine weiche Scheibe hält ihre Körner lange fest und eignet sich für weiche Werkstoffe",
+        "Eine harte Scheibe hält ihre Körner lange fest und eignet sich für weiche Werkstoffe",
+        "Die Scheibenhärte richtet sich allein nach der Härte des Schleifkorns"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Prüfungstipp hält eine harte Scheibe ihre Körner lange fest (für weiche Werkstoffe), während eine weiche Scheibe sie früh freigibt (für harte Werkstoffe).",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.4-13",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Welche Rolle spielt die Hauptschneide bei der bestimmten Schneide?",
+      "options": [
+        "Sie liegt der erzeugten Oberfläche gegenüber und mindert die Reibung",
+        "Sie weist in Vorschubrichtung und leistet die wesentliche Trennarbeit",
+        "Sie bildet den gerundeten Übergang zur Nebenschneide",
+        "Sie dient als Spankammer für den abgetragenen Werkstoff"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text gibt an, dass die Hauptschneide in Vorschubrichtung weist und die wesentliche Trennarbeit leistet.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.4-14",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Welche Wirkung hat ein großer Keilwinkel β?",
+      "options": [
+        "Er dringt besonders leicht in den Werkstoff ein",
+        "Er führt Wärme besser ab und gibt eine stabile Schneide",
+        "Er senkt die Schnittkraft und die Antriebsleistung",
+        "Er macht die Schneide besonders bruchanfällig"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text führt ein großer Keilwinkel β Wärme besser ab und gibt eine stabile Schneide, während ein kleiner β leichter eindringt.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.4-15",
+      "termId": "1.4",
+      "field": "Fertigungstechnik",
+      "termTitle": "Trennen mit geometrisch bestimmter / unbestimmter Schneide",
+      "question": "Welche Größe ist bei der geometrisch unbestimmten Schneide die zentrale Auslegungsgröße?",
+      "options": [
+        "Der Spanwinkel γ",
+        "Die Bindungshärte",
+        "Der Freiwinkel α",
+        "Die Größe der Schneidecke"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text erklärt, dass wegen der Selbstschärfung bei der unbestimmten Schneide die Bindungshärte die zentrale Auslegungsgröße ist.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.5-1",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Wie definiert die DIN 8580 das Umformen?",
+      "options": [
+        "Fertigen durch bildsames (plastisches) Ändern der Form eines festen Körpers, wobei Masse und Stoffzusammenhalt erhalten bleiben",
+        "Fertigen durch gezieltes Abtragen von Material, wobei die äußere Form schrittweise verkleinert wird",
+        "Fertigen durch Zusammenfügen mehrerer Einzelteile zu einem festen Verbund ohne Formänderung",
+        "Fertigen durch Schaffen einer Form aus dem formlosen Zustand, wobei der Stoffzusammenhalt erst entsteht"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut DIN 8580 ist Umformen das Fertigen durch bildsames (plastisches) Ändern der Form eines festen Körpers, wobei Masse und Stoffzusammenhalt erhalten bleiben.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.5-2",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "In wie viele Gruppen unterteilt die DIN 8582 die Umformverfahren?",
+      "options": [
+        "Drei",
+        "Vier",
+        "Fünf",
+        "Sechs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Die DIN 8582 unterteilt die Umformverfahren nach den wirksamen Spannungen in fünf Gruppen.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.5-3",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Nach welchem Kriterium ordnet die DIN 8582 die fünf Gruppen der Umformverfahren?",
+      "options": [
+        "Nach der Gestalt des fertigen Bauteils",
+        "Nach der Spannungsart, die in der Umformzone die Verformung bewirkt",
+        "Nach der Temperatur, bei der die Umformung stattfindet",
+        "Nach dem verwendeten Werkstoff und dessen Fließgrenze"
+      ],
+      "correctIndex": 1,
+      "explanation": "Die DIN 8582 ordnet die Gruppen nicht nach dem fertigen Bauteil, sondern danach, welche Spannungsart (Druck, Zug, Kombination oder Schub) in der Umformzone die Verformung bewirkt.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.5-4",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Welches Merkmal grenzt das Umformen vom Trennen und vom Urformen ab?",
+      "options": [
+        "Es wird ausschließlich bei erhöhter Temperatur durchgeführt",
+        "Masse und Stoffzusammenhalt bleiben erhalten, da weder Material weggenommen noch hinzugefügt wird",
+        "Es lassen sich nur rotationssymmetrische Bauteile herstellen",
+        "Die Verformung bleibt rein elastisch und geht nach Entlastung zurück"
+      ],
+      "correctIndex": 1,
+      "explanation": "Weil weder Material weggenommen noch hinzugefügt wird, bleiben Masse und Stoffzusammenhalt erhalten - das ist das Abgrenzungsmerkmal zu Trennen und Urformen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.5-5",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Welche der folgenden Verfahren gehören laut DIN 8582 zum Druckumformen?",
+      "options": [
+        "Tiefziehen, Durchziehen und Kragenziehen",
+        "Längen, Weiten und Tiefen",
+        "Walzen, Freiformen und Gesenkformen",
+        "Verschieben und Verdrehen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zum Druckumformen zählen laut Tabelle Walzen, Freiformen, Gesenkformen, Eindrücken und Durchdrücken.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.5-6",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Zu welcher Umformgruppe nach DIN 8582 gehört das Tiefziehen?",
+      "options": [
+        "Zugdruckumformen",
+        "Druckumformen",
+        "Zugumformen",
+        "Biegeumformen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Das Tiefziehen wird laut Tabelle der Gruppe Zugdruckumformen zugeordnet, bei der Zug und Druck gleichzeitig wirken.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.5-7",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Was bedeutet der Begriff bildsam beziehungsweise plastisch im Zusammenhang mit dem Umformen?",
+      "options": [
+        "Eine Verformung, die nach Entlastung vollständig zurückgeht",
+        "Eine bleibende Verformung, im Gegensatz zur elastischen, die nach Entlastung zurückgeht",
+        "Eine Verformung, die nur unterhalb der Fließgrenze auftritt",
+        "Eine Verformung, bei der der Werkstoff reißt und Material verloren geht"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bildsam oder plastisch meint die bleibende Verformung, im Gegensatz zur elastischen Verformung, die nach Entlastung zurückgeht.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.5-8",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Welcher Spannungsverlauf entsteht beim Biegen durch das Biegemoment?",
+      "options": [
+        "Innen Zug-, außen Druckspannung",
+        "Überall gleichmäßige Druckspannung",
+        "Innen Druck-, außen Zugspannung",
+        "Überall gleichmäßige Zugspannung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Beim Biegen entsteht durch das Biegemoment ein charakteristischer Spannungsverlauf: innen Druck-, außen Zugspannung.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.5-9",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Wodurch entsteht beim Biegen die Rückfederung?",
+      "options": [
+        "Weil immer ein elastischer Anteil mitverformt wird, der nach dem Entlasten teilweise zurückgeht",
+        "Weil der Werkstoff beim Biegen erwärmt wird und sich danach abkühlt",
+        "Weil beim Biegen Material abgetragen und wieder angelagert wird",
+        "Weil die Druckspannung im Inneren des Bauteils vollständig erhalten bleibt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weil immer ein elastischer Anteil mitverformt wird, federt das Bauteil nach dem Entlasten teilweise zurück - das ist die Rückfederung.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.5-10",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Wie wird die Rückfederung beim Biegen ausgeglichen?",
+      "options": [
+        "Indem der Werkstoff vor dem Biegen stark erwärmt wird",
+        "Indem das Werkstück nach dem Biegen mehrfach nachgewalzt wird",
+        "Indem man das Werkzeug etwas weiter biegen lässt als das Sollmaß (Überbiegen)",
+        "Indem man den elastischen Anteil durch eine höhere Kraft vollständig entfernt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Man gleicht die Rückfederung aus, indem man das Werkzeug etwas weiter biegen lässt als das Sollmaß - dies geschieht durch Überbiegen über eine Werkzeugwinkel-Korrektur.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.5-11",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Welche Aussage zum Zugumformen trifft laut DIN 8585 zu?",
+      "options": [
+        "Es wirken Zug und Druck gleichzeitig, sodass ein Hohlkörper entsteht",
+        "Es überwiegt Zug, sodass die Oberfläche wächst und die Wand dünner wird",
+        "Es überwiegt Druck, sodass der Werkstoff zusammengedrückt wird",
+        "Es wirkt ein Biegemoment, sodass innen Druck- und außen Zugspannung entsteht"
+      ],
+      "correctIndex": 1,
+      "explanation": "Beim Zugumformen (8585) überwiegt Zug, sodass die Oberfläche wächst und die Wand dünner wird.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.5-12",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Ordne die Beispiele Verschieben und Verdrehen der richtigen Umformgruppe nach DIN 8582 zu.",
+      "options": [
+        "Biegeumformen",
+        "Zugumformen",
+        "Druckumformen",
+        "Schubumformen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Laut Tabelle gehören Verschieben und Verdrehen zur Gruppe Schubumformen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.5-13",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Warum gelingt das Tiefziehen nur in einem schmalen Prozessfenster?",
+      "options": [
+        "Weil das Blech bei Abweichungen entweder reißt oder Falten wirft",
+        "Weil der Werkstoff nur oberhalb seiner Schmelztemperatur fließt",
+        "Weil dabei zwingend Material abgetragen werden muss",
+        "Weil ausschließlich rein elastische Verformung zulässig ist"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beim Tiefziehen entsteht aus einer flachen Blechplatine ein Hohlkörper, ohne dass das Blech reißt oder Falten wirft - das gelingt nur in einem schmalen Prozessfenster, was das Verfahren anspruchsvoll macht.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.5-14",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Wie viele der fünf DIN-8582-Gruppen vereint eine Getränkedose laut Anwendungsbeispiel?",
+      "options": [
+        "Zwei",
+        "Drei",
+        "Vier",
+        "Fünf"
+      ],
+      "correctIndex": 2,
+      "explanation": "An der Getränkedose sieht man vier der fünf DIN-8582-Gruppen: Tiefziehen, Abstreckziehen, Einprägen des Bodens und Bördeln des Deckelrands.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.5-15",
+      "termId": "1.5",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Umform-Verfahren",
+      "question": "Welche Zuordnung der Fertigungsschritte einer Getränkedose zu den Umformgruppen ist korrekt?",
+      "options": [
+        "Der Boden wird durch Biegeumformen eingeprägt",
+        "Der Deckelrand wird durch Druckumformen gebördelt",
+        "Der Rumpf wird durch Abstreckziehen (Zugumformen) dünnwandig hochgezogen",
+        "Der Rumpf wird durch Schubumformen tiefgezogen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Anwendungsbeispiel wird der Rumpf durch Abstreckziehen dünnwandig hochgezogen, was dem Zugumformen zugeordnet ist; der Boden wird eingeprägt (Druckumformen) und der Deckelrand gebördelt (Biegeumformen).",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.6-1",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Was schafft das Urformen?",
+      "options": [
+        "Einen festen Körper aus formlosem Stoff wie Schmelze oder Pulver",
+        "Eine neue Oberfläche durch Abtragen von Spänen",
+        "Eine bleibende Form durch plastisches Umformen eines Rohlings",
+        "Eine Verbindung zweier bereits fester Bauteile"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Definition schafft Urformen einen festen Körper aus formlosem Stoff (Schmelze, Pulver); der Zusammenhalt wird dabei erstmals geschaffen.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.6-2",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Welche ist die wichtigste Untergruppe des Urformens?",
+      "options": [
+        "Das Sintern",
+        "Das Schweißen",
+        "Das Gießen",
+        "Das Schleudern"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Text nennt das Gießen als wichtigste Untergruppe des Urformens, daneben steht das Sintern.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.6-3",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "An welcher Position der DIN 8580 steht das Urformen?",
+      "options": [
+        "An Position 1",
+        "An Position 2",
+        "An letzter Position",
+        "An Position 8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text steht Urformen an Position 1 der DIN 8580, weil hier aus etwas Formlosem überhaupt erst ein zusammenhängender fester Körper entsteht.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.6-4",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Warum steht das Urformen am Anfang jeder Prozesskette?",
+      "options": [
+        "Weil es das einfachste aller Fertigungsverfahren ist",
+        "Weil alles, was später gefräst, gebogen oder geschweißt wird, zuerst urgeformt sein muss",
+        "Weil es immer die höchste Genauigkeit liefert",
+        "Weil es ohne Werkzeuge auskommt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text begründet die Einordnung damit, dass alles, was später gefräst, gebogen oder geschweißt wird, zuerst urgeformt worden sein muss.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.6-5",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Wodurch ist das Sintern gekennzeichnet?",
+      "options": [
+        "Flüssiger Werkstoff erstarrt vollständig in einer Form",
+        "Pulver wird unter Druck und Hitze verbacken, ohne vollständig zu schmelzen",
+        "Eine rotierende Form presst die Schmelze nach außen",
+        "Ein Wachsmodell wird mit Keramik umhüllt und ausgeschmolzen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text wird beim Sintern Pulver unter Druck und Hitze zu einem festen Körper verbacken, ohne vollständig zu schmelzen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.6-6",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Welches Urform-Verfahren bildet laut Text die Brücke zum 3D-Druck?",
+      "options": [
+        "Das Druckgießen",
+        "Das Feingießen",
+        "Das Sintern",
+        "Das Schleudergießen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Text bezeichnet das Sintern als zugleich die Brücke zum 3D-Druck.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.6-7",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Nach welchem Kriterium systematisiert das Skript die Gießverfahren?",
+      "options": [
+        "Nach der Wiederverwendbarkeit der Form",
+        "Nach dem verwendeten Werkstoff",
+        "Nach der erreichbaren Oberflächengüte",
+        "Nach der Größe des Bauteils"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text systematisiert das Skript die Gießverfahren danach, wie oft die Form benutzt werden kann, weil das unmittelbar die Wirtschaftlichkeit bestimmt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.6-8",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Was geschieht mit einer verlorenen Form?",
+      "options": [
+        "Sie wird gereinigt und mehrfach wiederverwendet",
+        "Sie besteht stets aus Metall",
+        "Sie rotiert während des Gießens",
+        "Sie wird beim Entnehmen des Werkstücks zerstört"
+      ],
+      "correctIndex": 3,
+      "explanation": "Der Text definiert verlorene Formen als einmal verwendbar, da die Form beim Entnehmen zerstört wird.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.6-9",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Welches Verfahren mit verlorener Form eignet sich laut Text für Einzel- und Kleinserien?",
+      "options": [
+        "Maschinenformen",
+        "Druckgießen",
+        "Schleudergießen",
+        "Handformen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Der Text ordnet die Handformen den Einzel- und Kleinserien zu, zum Beispiel für Ständer von Universal-Werkzeugmaschinen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.6-10",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Ordne richtig zu: Welches Beispiel nennt der Text für die Maskenform?",
+      "options": [
+        "Ständer von Universal-Werkzeugmaschinen",
+        "Gehäuse von Drehkolbenkompressoren",
+        "Zylinderköpfe von Zweitaktmotoren",
+        "Rohre"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Text werden Maskenformen (schalenartig, hohe Oberflächengüte) etwa für Zylinderköpfe von Zweitaktmotoren genutzt.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.6-11",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Was zeichnet die Maschinenform gegenüber der Handform aus?",
+      "options": [
+        "Sie ist maßgenauer und lohnt ab mittleren Stückzahlen",
+        "Sie wird ausschließlich für Einzelstücke verwendet",
+        "Sie ist eine Dauerform aus Metall",
+        "Sie nutzt die Zentrifugalkraft einer rotierenden Form"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text beschreibt die Maschinenform als maßgenauer (die Maschine verdichtet und zieht das Modell) und ab mittleren Stückzahlen wirtschaftlich.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.6-12",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Wodurch presst das Druckgießen die Schmelze in die Form?",
+      "options": [
+        "Durch die Zentrifugalkraft einer rotierenden Form",
+        "Unter Druck in eine Metallform",
+        "Durch das Ausschmelzen eines Wachsmodells",
+        "Durch reines Erstarren unter Schwerkraft"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text presst das Druckgießen die Schmelze unter Druck in eine Metallform, vor allem bei hohen Stückzahlen und NE-Metallen wie Aluminium und Zink.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.6-13",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Wie lautet die Faustregel zur Verfahrenswahl beim Gießen?",
+      "options": [
+        "Je geringer die Stückzahl, desto eher lohnt die Dauerform",
+        "Je höher die Stückzahl, desto eher lohnt die teure Dauerform",
+        "Die Verfahrenswahl ist allein eine technische Entscheidung",
+        "Verlorene Formen sind grundsätzlich wirtschaftlicher als Dauerformen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text fasst die Faustregel so: Je höher die Stückzahl, desto eher lohnt die teure Dauerform; es ist dieselbe Stückzahl-gegen-Werkzeugkosten-Abwägung wie beim Trennen und 3D-Druck.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.6-14",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Welche Aussage zur Verfahrenswahl beim Urformen trifft laut Text zu?",
+      "options": [
+        "Sie ist fast immer eine wirtschaftliche und nicht nur technische Entscheidung",
+        "Sie hängt ausschließlich vom verwendeten Werkstoff ab",
+        "Sie ist unabhängig von der Stückzahl",
+        "Sie wird allein durch die Oberflächengüte bestimmt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text betont, dass Urformen ein gutes Beispiel dafür ist, dass die Verfahrenswahl fast immer eine wirtschaftliche und nicht nur technische Entscheidung ist.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.6-15",
+      "termId": "1.6",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für Urform-Verfahren",
+      "question": "Warum ist der im Feingießen hergestellte Turbinenschaufel-Rohling ein Gegenbeispiel zur Faustregel?",
+      "options": [
+        "Weil hier die hohe Stückzahl das Verfahren erzwingt",
+        "Weil hier die Geometriekomplexität und nicht die Stückzahl das Verfahren erzwingt",
+        "Weil das Bauteil sich spanend besonders wirtschaftlich herstellen ließe",
+        "Weil eine Dauerform statt einer verlorenen Form verwendet wird"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text erzwingt beim Feingießen der Turbinenschaufel nicht die Stückzahl, sondern die Geometriekomplexität das Verfahren, da komplexe Geometrien mit feinen Kühlkanälen spanend kaum wirtschaftlich herstellbar wären.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.7-1",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Was trennt das Spanen mit geometrisch bestimmter Schneide nach DIN 8589?",
+      "options": [
+        "Werkstoff in Form von Spänen mit definierter Schneide",
+        "Werkstoff durch elektrochemisches Abtragen ohne Schneide",
+        "Werkstoff in Form von Pulver mit unbestimmter Korngeometrie",
+        "Werkstoff durch thermisches Schmelzen entlang der Trennfuge"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut DIN 8589 trennt das Spanen mit geometrisch bestimmter Schneide den Werkstoff in Form von Spänen mit definierter Schneide.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.7-2",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Welche drei Verfahren werden im Text als Leitverfahren der spanenden Fertigung genannt?",
+      "options": [
+        "Schleifen, Honen und Läppen",
+        "Drehen, Fräsen und Bohren",
+        "Drehen, Schleifen und Stoßen",
+        "Fräsen, Räumen und Hobeln"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text nennt Drehen, Fräsen und Bohren ausdrücklich als Leitverfahren der spanenden Fertigung.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.7-3",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Wo liegt nach dem Schlüsselsatz zur Abgrenzung die Schnittbewegung beim Drehen?",
+      "options": [
+        "Am Werkzeug, das zugleich den Vorschub ausführt",
+        "Sowohl am Werkstück als auch am Werkzeug gleichzeitig",
+        "Am Werkstück",
+        "Ausschließlich in der axialen Vorschubrichtung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Prüfungstipp stellt klar: Beim Drehen liegt die Schnittbewegung am Werkstück, beim Fräsen und Bohren am Werkzeug.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.7-4",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Wie lautet die Definition des Fräsens gemäß der wörtlich zitierten S1-Folie?",
+      "options": [
+        "Spanen mit geradliniger, dem Werkstück zugeordneter Schnittbewegung und axialem Vorschub",
+        "Spanen mit kreisförmiger, dem Werkstück zugeordneter Schnittbewegung und festem Vorschub",
+        "Spanen mit unterbrochener, einschneidiger Schnittbewegung und beliebigem Vorschub",
+        "Spanen mit kreisförmiger, dem Werkzeug zugeordneter Schnittbewegung und beliebiger Vorschubbewegung"
+      ],
+      "correctIndex": 3,
+      "explanation": "Die S1-Folie definiert Fräsen wörtlich als Spanen mit kreisförmiger, dem Werkzeug zugeordneter Schnittbewegung und beliebiger Vorschubbewegung.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.7-5",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Welche Aussage zur Schneidenzahl und Schnittart trifft laut dem Zusatzmerkmal des Prüfungstipps zu?",
+      "options": [
+        "Drehen ist einschneidig im durchgehenden Schnitt, Fräsen mehrschneidig im unterbrochenen Schnitt",
+        "Drehen ist mehrschneidig im unterbrochenen Schnitt, Fräsen einschneidig im durchgehenden Schnitt",
+        "Beide Verfahren arbeiten einschneidig, unterscheiden sich aber im Vorschub",
+        "Beide Verfahren arbeiten mehrschneidig, unterscheiden sich aber in der Schnittbewegung"
+      ],
+      "correctIndex": 0,
+      "explanation": "Das Zusatzmerkmal lautet: Drehen ist einschneidig im durchgehenden Schnitt, Fräsen mehrschneidig im unterbrochenen Schnitt.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.7-6",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Wodurch zeichnet sich das Gleichlauffräsen laut Text aus?",
+      "options": [
+        "Die Schnittkraft baut sich erst auf, was mehr Vibration und Verschleiß bedeutet",
+        "Das Werkzeug dreht in Vorschubrichtung, die Schnittkraft ist beim Eintritt maximal und nimmt ab",
+        "Das Werkzeug dreht entgegen der Vorschubrichtung und erzeugt harte Randzonen",
+        "Die Schneide ist durchgehend im Eingriff, was für gleichmäßigen Lauf sorgt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Beim Gleichlauffräsen dreht das Werkzeug in Vorschubrichtung; die Schnittkraft ist beim Eintritt maximal und nimmt ab, was für ruhigen Lauf und hohe Oberflächengüte sorgt.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.7-7",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Welches Fräsverfahren ist laut Text ideal zum Schlichten geeignet?",
+      "options": [
+        "Gegenlauffräsen, weil es harte Randzonen erzeugt",
+        "Gegenlauffräsen, weil es das Schruppen besser bewältigt",
+        "Beide Verfahren gleichermaßen, da die Laufrichtung keine Rolle spielt",
+        "Gleichlauffräsen, weil es ruhigen Lauf und hohe Oberflächengüte bietet"
+      ],
+      "correctIndex": 3,
+      "explanation": "Das Gleichlauffräsen sorgt für ruhigen Lauf und hohe Oberflächengüte und ist daher ideal zum Schlichten.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.7-8",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Welche Bewegungen führt das Werkzeug beim Bohren laut Text zugleich aus?",
+      "options": [
+        "Die kreisförmige Schnitt- und die axiale Vorschubbewegung",
+        "Die geradlinige Schnitt- und die radiale Vorschubbewegung",
+        "Die kreisförmige Schnittbewegung bei feststehendem Vorschub",
+        "Die axiale Schnitt- und die kreisförmige Vorschubbewegung"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beim Bohren führt das Werkzeug zugleich die kreisförmige Schnitt- und die axiale Vorschubbewegung aus.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.7-9",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Welche typische Arbeitsfolge wird beim Bohren im Text angegeben?",
+      "options": [
+        "Reiben – Senken – Bohren",
+        "Bohren – Reiben – Senken",
+        "Bohren – Senken – Reiben",
+        "Senken – Bohren – Reiben"
+      ],
+      "correctIndex": 2,
+      "explanation": "Die typische Arbeitsfolge beim Bohren lautet laut Text Bohren – Senken – Reiben.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.7-10",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Welche Genauigkeit erreicht das Bohren ins Volle und bis zu welcher Stufe gelangt man durch anschließendes Reiben?",
+      "options": [
+        "Bohren ins Volle etwa IT5, durch Reiben bis IT10",
+        "Bohren ins Volle etwa IT10, durch Reiben bis IT5",
+        "Bohren ins Volle etwa IT8, durch Reiben bis IT2",
+        "Bohren ins Volle etwa IT12, durch Reiben bis IT7"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bohren ins Volle erreicht etwa IT10 (≈0,05 mm); durch anschließendes Reiben gelangt man bis IT5 (≈0,02 mm).",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.7-11",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Welcher Kernbohrungsdurchmesser ergibt sich nach der Regel für ein Gewindekernloch M8 mit Steigung 1,25 mm?",
+      "options": [
+        "∅6,8 (aus 8 − 1,25 = 6,75)",
+        "∅9,3 (aus 8 + 1,25 = 9,25)",
+        "∅7,5 (aus 8 − 0,5)",
+        "∅5,6 (aus 8 − 2,5)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Die Regel lautet Kernbohrung = Nenndurchmesser − Steigung; für M8 ergibt 8 − 1,25 = 6,75, also wird ∅6,8 gebohrt.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.7-12",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Welche Spitzenwinkel des Spiralbohrers nennt der Text für HSS bzw. Hartmetall?",
+      "options": [
+        "118° für Hartmetall bzw. 142° für HSS",
+        "90° für HSS bzw. 118° für Hartmetall",
+        "118° für HSS bzw. 142° für Hartmetall",
+        "142° für HSS bzw. 180° für Hartmetall"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Spitzenwinkel des Spiralbohrers beträgt laut Text 118° bei HSS und 142° bei Hartmetall.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.7-13",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Welche Drehverfahren werden im Text der Gruppe des Runddrehens zugeordnet?",
+      "options": [
+        "Plandrehen und Abstechdrehen",
+        "Längs- und Quer-Runddrehen sowie Breitschlichtdrehen",
+        "Schraubdrehen und Profildrehen",
+        "Formdrehen und Gewindestrehlen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zum Runddrehen gehören laut Text Längs-/Quer-Runddrehen sowie das Breitschlichtdrehen mit großem Vorschub und kleinem Einstellwinkel.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.7-14",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Wodurch ist das Schraubdrehen laut Text gekennzeichnet?",
+      "options": [
+        "Der Vorschub je Umdrehung entspricht der Gewindesteigung",
+        "Der Einstellwinkel ist besonders klein bei großem Vorschub",
+        "Das Werkstück steht fest, während das Werkzeug rotiert",
+        "Die erzeugte Fläche ist stets eine ebene Planfläche"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beim Schraubdrehen entspricht der Vorschub je Umdrehung der Gewindesteigung.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.7-15",
+      "termId": "1.7",
+      "field": "Fertigungstechnik",
+      "termTitle": "Beispiele für spanende Fertigung",
+      "question": "Welche Schnittgeschwindigkeitsbereiche gibt der Text für das Bohren mit HSS bzw. Hartmetall an?",
+      "options": [
+        "HSS 40–200 m/min, Hartmetall 10–60 m/min",
+        "HSS 1–10 m/min, Hartmetall 20–80 m/min",
+        "HSS 60–120 m/min, Hartmetall 200–400 m/min",
+        "HSS 10–60 m/min, Hartmetall 40–200 m/min"
+      ],
+      "correctIndex": 3,
+      "explanation": "Die Schnittgeschwindigkeiten liegen laut Text für HSS bei 10–60 m/min und für Hartmetall bei 40–200 m/min.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.8-1",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Zu welchem der vier Hauptfertigungsverfahren zählt die additive Fertigung (3D-Druck)?",
+      "options": [
+        "Urformen",
+        "Umformen",
+        "Trennen",
+        "Fügen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Definition baut der 3D-Druck Bauteile schichtweise direkt aus 3D-Daten auf und zählt damit zum Urformen.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.8-2",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Wofür steht die Abkürzung LPBF im Kontext des metallischen 3D-Drucks?",
+      "options": [
+        "Laser Powder Bed Fusion",
+        "Layered Polymer Binding Fusion",
+        "Liquid Phase Bonding Fabrication",
+        "Laser Pulse Beam Forming"
+      ],
+      "correctIndex": 0,
+      "explanation": "Im Text wird LPBF als Laser Powder Bed Fusion (Selektives Laserschmelzen) aufgeschlüsselt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.8-3",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Welche typische Schichtdicke des Metallpulvers wird beim LPBF im Text genannt?",
+      "options": [
+        "20-60 µm",
+        "100-150 µm",
+        "2-6 µm",
+        "200-300 µm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text wird eine dünne Schicht Metallpulver mit typisch 20-60 µm auf die Bauplattform gezogen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.8-4",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Welches Verfahren wird im Text als das verbreitetste Metallverfahren bezeichnet?",
+      "options": [
+        "Binder Jetting",
+        "EBM (Elektronenstrahlschmelzen)",
+        "LPBF / SLM",
+        "DED / LMD (Auftragschweißen)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Text beschreibt LPBF ausdrücklich als das verbreitetste Metallverfahren und erläutert dessen Funktionsweise im Detail.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.8-5",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Wodurch werden die Bauteile beim LPBF während des Aufbaus im Pulverbett zusätzlich gestützt?",
+      "options": [
+        "Durch ungeschmolzenes Pulver",
+        "Durch eine flüssige Stützmasse",
+        "Durch eine wiederverwendbare Gussform",
+        "Durch ein keramisches Trägergerüst"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text erklärt, dass das Teil von unten nach oben im Pulverbett entsteht und das ungeschmolzene Pulver dabei mitstützt.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.8-6",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Welche Aussage beschreibt den Paradigmenwechsel der additiven Fertigung gegenüber klassischen Verfahren am besten?",
+      "options": [
+        "Material wird nur dort aufgebaut, wo es nötig ist, ohne Werkzeug oder Form",
+        "Material wird vom Vollen abgetragen, bis die Geometrie entsteht",
+        "Material wird in eine wiederverwendbare Form gegossen",
+        "Material wird durch Umformen in die Endgeometrie gebracht"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text dreht die additive Fertigung die Logik um: Das Bauteil entsteht nur dort, wo Material nötig ist, ganz ohne Werkzeug oder Form.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.8-7",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Was ist gemeint, wenn der Text sagt, der Aufwand entkopple sich von der Geometrie?",
+      "options": [
+        "Ein hochkomplexes Teil kostet kaum mehr als ein einfaches gleichen Volumens",
+        "Ein komplexes Teil benötigt zwingend mehrere unterschiedliche Werkzeuge",
+        "Die Geometrie bestimmt vollständig die Höhe der Herstellkosten",
+        "Einfache Geometrien sind teurer als komplexe gleichen Volumens"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text führt aus, dass durch die Entkopplung von der Geometrie ein hochkomplexes Teil kaum mehr kostet als ein einfaches gleichen Volumens.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.8-8",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Welche der folgenden Eigenschaften wird im Text als Vorteil der additiven Fertigung genannt?",
+      "options": [
+        "Funktionsintegration mehrerer Teile in eines",
+        "Hohe Aufbaurate und großer Bauraum",
+        "Glatte Oberflächen ohne Nachbearbeitung",
+        "Sehr breites, unkritisches Werkstoffspektrum"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text nennt als Vorteil ausdrücklich die Funktionsintegration mehrerer Teile in eines; die übrigen Punkte sind laut Text Nachteile oder gegenteilig.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.8-9",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Welcher der folgenden Punkte zählt laut Text zu den Nachteilen der additiven Fertigung?",
+      "options": [
+        "Eigenspannungen und Stützstrukturen",
+        "Werkzeuglose Herstellung",
+        "Wirtschaftlichkeit bei kleinen Stückzahlen",
+        "Near net shape"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eigenspannungen und Stützstrukturen werden im Text explizit als Nachteile aufgeführt, während die anderen Optionen Vorteile darstellen.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.8-10",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Welche Begründung nennt der Text für die fast immer nötige Nachbearbeitung wie Spanen oder Strahlen?",
+      "options": [
+        "Die raue Oberfläche der additiv gefertigten Teile",
+        "Die zu hohe Maßgenauigkeit der Rohteile",
+        "Die übermäßig glatte Oberfläche nach dem Schmelzen",
+        "Die geringe Härte des verwendeten Pulvers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text entstehen raue Oberflächen mit fast immer nötiger Nachbearbeitung (Spanen, Strahlen).",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.8-11",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Wie lautet die im Text genannte Merkregel zur Verfahrensauswahl?",
+      "options": [
+        "Additiv bei hoher Komplexität und kleiner Stückzahl, spanend/gießend bei einfacher Geometrie und großer Serie",
+        "Additiv bei großer Serie, spanend bei kleiner Stückzahl",
+        "Gießend bei hoher Komplexität, additiv bei einfacher Geometrie",
+        "Spanend immer dann, wenn innenliegende Kühlkanäle gefordert sind"
+      ],
+      "correctIndex": 0,
+      "explanation": "Die Merkregel im Text lautet: additiv bei hoher Komplexität und kleiner Stückzahl, spanend/gießend bei einfacher Geometrie und großer Serie.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.8-12",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "In welcher Branche und für welches Bauteil wird das LPBF-Anwendungsbeispiel im Text geschildert?",
+      "options": [
+        "Luftfahrt: Treibstoff-Düsen",
+        "Automobilbau: Zylinderköpfe",
+        "Medizintechnik: Zahnimplantate",
+        "Schiffbau: Schraubenwellen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text beschreibt als Beispiel die Treibstoff-Düsen in der Luftfahrt, die per LPBF gefertigt werden.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.8-13",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Aus wie vielen Einzelteilen werden die Treibstoff-Düsen im Anwendungsbeispiel zu einem Bauteil zusammengeführt?",
+      "options": [
+        "Über 20 Einzelteilen",
+        "Aus genau 3 Einzelteilen",
+        "Aus über 200 Einzelteilen",
+        "Aus 2 Einzelteilen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text gibt an, dass die Düsen aus zuvor über 20 Einzelteilen zu einem Bauteil zusammengeführt werden.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.8-14",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Welche Aussage zur Herstellbarkeit der Treibstoff-Düse trifft laut Anwendungsbeispiel zu?",
+      "options": [
+        "Spanend wäre dieselbe Geometrie kaum, gießtechnisch gar nicht herstellbar",
+        "Sowohl spanend als auch gießtechnisch wäre sie problemlos herstellbar",
+        "Gießtechnisch wäre sie einfach, spanend gar nicht möglich",
+        "Nur durch Umformen wäre sie wirtschaftlich herstellbar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text betont, dass dieselbe Geometrie spanend kaum und gießtechnisch gar nicht herstellbar wäre.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.8-15",
+      "termId": "1.8",
+      "field": "Fertigungstechnik",
+      "termTitle": "3D-Druck Metall: Verfahren, Vorteile, Nachteile",
+      "question": "Welche Begründung passt zur Aussage, dass additive Fertigung die gewohnte Kostenlogik umkehrt?",
+      "options": [
+        "Geometrische Komplexität verursacht kaum Mehrkosten, da kein formgebundenes Werkzeug nötig ist",
+        "Mit steigender Komplexität steigen die Werkzeugkosten überproportional an",
+        "Große Serien werden günstiger, weil die Form mehrfach genutzt wird",
+        "Einfache Teile sind nur mit teuren Spezialwerkzeugen herstellbar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text entsteht das Teil ohne formgebundenes Werkzeug nur dort, wo Material nötig ist, sodass Komplexität kaum Mehrkosten verursacht und die gewohnte Kostenlogik umgekehrt wird.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.9-1",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Was bezeichnet die Zerspankraft F beim Drehen?",
+      "options": [
+        "Die gesamte Kraft am Schneidkeil",
+        "Nur die tangentiale Schnittkraft",
+        "Die Kraft in Vorschubrichtung allein",
+        "Die senkrecht wirkende Passivkraft"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text ist die Zerspankraft F die gesamte Kraft am Schneidkeil, die in Schnittkraft, Vorschubkraft und Passivkraft zerfällt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.9-2",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "In welche drei Komponenten zerfällt die Zerspankraft F nach dem Quellentext?",
+      "options": [
+        "Schnittkraft Fc, Vorschubkraft Ff und Passivkraft Fp",
+        "Schnittkraft Fc, Aktivkraft Fa und Radialkraft Fr",
+        "Tangentialkraft Ft, Normalkraft Fn und Reibkraft Fr",
+        "Hauptkraft Fh, Nebenkraft Fn und Stützkraft Fs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text nennt ausdrücklich die Schnittkraft Fc (tangential), die Vorschubkraft Ff und die Passivkraft Fp als die drei Komponenten.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.9-3",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Mit welcher Formel berechnet das Skript die Schnittkraft Fc?",
+      "options": [
+        "Fc = kc · A",
+        "Fc = kc · h",
+        "Fc = kc1.1 · h^-mc",
+        "Fc = C · T^(1/k)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Das Skript rechnet Fc über das einfache Modell Fc = kc · A, also spezifische Schnittkraft mal Spanungsquerschnitt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.9-4",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Wie ist der Spanungsquerschnitt A nach dem Rechenmodell definiert?",
+      "options": [
+        "A = ap · f (Schnitttiefe mal Vorschub)",
+        "A = ap · sin κ",
+        "A = f · sin κ",
+        "A = ap / sin κ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text ist der Spanungsquerschnitt A schlicht Schnitttiefe mal Vorschub, also A = ap · f.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.9-5",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Welche der drei Kraftkomponenten leistet die eigentliche Trennarbeit und steckt in der Leistung?",
+      "options": [
+        "Die Schnittkraft Fc",
+        "Die Vorschubkraft Ff",
+        "Die Passivkraft Fp",
+        "Die Aktivkraft Fa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text sagt, dass Fc in Schnittrichtung wirkt und die eigentliche Trennarbeit leistet, weshalb sie in der Leistung steckt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.9-6",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Welche drei praktischen Größen bestimmt die Schnittkraft laut Quellentext?",
+      "options": [
+        "Antriebsleistung der Maschine, Belastung von Werkzeug und Spindel sowie über die Passivkraft die Maßgenauigkeit",
+        "Standzeit des Werkzeugs, Schnittgeschwindigkeit und Oberflächengüte",
+        "Spanform, Schnitttemperatur und Werkstoffhärte",
+        "Vorschubgeschwindigkeit, Drehzahl und Eckenradius"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text führt aus, dass die Schnittkraft die Antriebsleistung, die Belastung von Werkzeug und Spindel sowie über die Passivkraft die Maßgenauigkeit bestimmt.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.9-7",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Warum verschlechtert die Passivkraft Fp die Maßgenauigkeit, obwohl sie keine Arbeit leistet?",
+      "options": [
+        "Sie drängt den Meißel ab und biegt das Werkstück",
+        "Sie erhöht die Schnitttemperatur am Werkzeug",
+        "Sie steigert den Verschleiß der Schneide",
+        "Sie wirkt direkt in Schnittrichtung mit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text steht Fp senkrecht und drückt das Werkzeug von der Bearbeitungsstelle weg; sie drängt den Meißel ab und biegt das Werkstück, was die Genauigkeit ruiniert.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.9-8",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Welche Komponenten bilden zusammen die Aktivkraft in der Arbeitsebene?",
+      "options": [
+        "Schnittkraft Fc und Vorschubkraft Ff",
+        "Schnittkraft Fc und Passivkraft Fp",
+        "Vorschubkraft Ff und Passivkraft Fp",
+        "Passivkraft Fp und Zerspankraft F"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text stellt fest, dass Fc und Ff zusammen die Aktivkraft in der Arbeitsebene bilden, erst mit Fp ergibt sich die gesamte Zerspankraft.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.9-9",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Was beschreibt die spezifische Schnittkraft kc physikalisch?",
+      "options": [
+        "Die Kraft, um 1 mm² Querschnitt zu zerspanen",
+        "Die gesamte Kraft am Schneidkeil",
+        "Die Leistung pro zerspantem Volumen",
+        "Die Kraft pro Längeneinheit des Spans"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text ist die spezifische Schnittkraft kc die Kraft, um 1 mm² Querschnitt zu zerspanen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.9-10",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Welche Aussage zur spezifischen Schnittkraft kc trifft nach dem Quellentext zu?",
+      "options": [
+        "kc ist keine Konstante und sinkt mit größerer Spanungsdicke h",
+        "kc ist eine Materialkonstante und unabhängig von h",
+        "kc steigt mit größerer Spanungsdicke h an",
+        "kc hängt allein vom Eckenradius r ab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text betont, dass kc keine Konstante ist, sondern mit größerer Spanungsdicke h sinkt, weil dickere Späne effizienter sind.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.9-11",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Wovon hängt die spezifische Schnittkraft kc laut Text außer von der Spanungsdicke noch ab?",
+      "options": [
+        "Von Werkstoff, Schnittgeschwindigkeit und Schneidengeometrie",
+        "Von Drehzahl, Wirkungsgrad und Antriebsleistung",
+        "Von Schnitttiefe, Vorschub und Eckenradius",
+        "Von Werkstücklänge, Spindeldrehzahl und Standzeit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text hängt kc von Werkstoff, Schnittgeschwindigkeit und Schneidengeometrie ab; die Werte stammen aus Tabellen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.9-12",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Welches Ergebnis liefert das Rechenbeispiel für die Schnittkraft Fc bei kc = 1990 N/mm², ap = 4 mm und f = 0,4 mm?",
+      "options": [
+        "Fc ≈ 3184 N",
+        "Fc ≈ 1990 N",
+        "Fc ≈ 15000 N",
+        "Fc ≈ 1337 N"
+      ],
+      "correctIndex": 0,
+      "explanation": "Im Beispiel ergibt sich Fc = 1990 · 4 · 0,4 ≈ 3184 N.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.9-13",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Welche effektive Schnittleistung Pe folgt im Anwendungsbeispiel bei Fc ≈ 3184 N, vc = 270 m/min und η = 0,8?",
+      "options": [
+        "Pe ≈ 15 kW",
+        "Pe ≈ 3,2 kW",
+        "Pe ≈ 1,3 kW",
+        "Pe ≈ 75 kW"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Beispiel folgt aus Pe = Fc · vc / η ein Wert von etwa 15 kW.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.9-14",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Wodurch ergeben sich nach der Rauheitsformel Rth ≈ f²/(8r) besonders glatte Oberflächen?",
+      "options": [
+        "Durch großen Eckenradius und kleinen Vorschub",
+        "Durch kleinen Eckenradius und großen Vorschub",
+        "Durch hohe Schnittgeschwindigkeit und große Schnitttiefe",
+        "Durch großen Einstellwinkel und hohen Wirkungsgrad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Die Formel Rth ≈ f²/(8r) zeigt, dass ein großer Eckenradius und ein kleiner Vorschub glatte Oberflächen geben.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.9-15",
+      "termId": "1.9",
+      "field": "Fertigungstechnik",
+      "termTitle": "Grundlagen Schnittkräfte beim Drehen",
+      "question": "Welche Aussage zum Prüfungstipp über Kienzle- und Taylor-Gleichung trifft zu?",
+      "options": [
+        "Beide stehen nur in der Formelsammlung; im Skript-Sinn zählt Fc = kc · A",
+        "Beide stehen im Skript und ersetzen das Modell Fc = kc · A",
+        "Nur die Kienzle-Formel steht im Skript, die Taylor-Gleichung nicht",
+        "Die Taylor-Standzeitgleichung ersetzt die spezifische Schnittkraft kc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Prüfungstipp stellt klar, dass die Kienzle-Formel und die Taylor-Standzeitgleichung nur in der Formelsammlung stehen, im Skript-Sinn jedoch Fc = kc · A zählt.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.10-1",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Welche Toleranzklasse erreicht die Feinbearbeitung laut Definition mindestens?",
+      "options": [
+        "IT5 oder besser",
+        "IT8 oder besser",
+        "IT11 oder besser",
+        "IT14 oder besser"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Definition verbessert die Feinbearbeitung Maß-, Form- und Oberflächengüte und erreicht Toleranzklasse IT5 oder besser.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.10-2",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Welches gemeinsame Merkmal kennzeichnet die Verfahren der Feinbearbeitung?",
+      "options": [
+        "Sie arbeiten durchweg mit geometrisch unbestimmter Schneide",
+        "Sie arbeiten durchweg mit geometrisch bestimmter Schneide",
+        "Sie arbeiten ausschließlich ohne Werkzeugkontakt",
+        "Sie arbeiten ausschließlich mit einem einzelnen Schneidkeil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text betont, dass es durchweg Verfahren mit geometrisch unbestimmter Schneide sind: Schleifen, Honen, Läppen.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.10-3",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Welche drei Verfahren zählt der Text zur Feinbearbeitung?",
+      "options": [
+        "Drehen, Fräsen, Bohren",
+        "Schleifen, Honen, Läppen",
+        "Schleifen, Drehen, Honen",
+        "Läppen, Fräsen, Schleifen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text nennt als Verfahren der Feinbearbeitung ausdrücklich Schleifen, Honen und Läppen.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.10-4",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Warum ist nach dem Drehen oder Fräsen oft noch eine Feinbearbeitung nötig?",
+      "options": [
+        "Weil Drehen und Fräsen grundsätzlich keine ebenen Flächen erzeugen können",
+        "Weil Spanen mit bestimmter Schneide an Grenzen bei Werkstoffhärte und erreichbarer Güte stößt",
+        "Weil Feinbearbeitung billiger ist als Drehen oder Fräsen",
+        "Weil gehärtete Teile sich besonders gut drehen lassen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text erklärt, dass Spanen mit bestimmter Schneide an eine Grenze kommt: Härte des Werkstoffs und erreichbare Güte.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.10-5",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Mit welcher Art von Korn arbeitet das Schleifen?",
+      "options": [
+        "Mit losem Korn",
+        "Mit gebundenem Korn",
+        "Ohne Korn, nur mit Schneidkeil",
+        "Mit flüssigem Korn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text beschreibt, dass Schleifen mit gebundenem Korn arbeitet (Korund, Siliziumkarbid; hochfest Diamant, CBN).",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.10-6",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Welche Schleifmittel nennt der Text als hochfeste Varianten?",
+      "options": [
+        "Korund und Siliziumkarbid",
+        "Diamant und CBN",
+        "Korund und CBN",
+        "Siliziumkarbid und Diamant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text führt Korund und Siliziumkarbid als gebundenes Korn an und nennt Diamant und CBN ausdrücklich als hochfeste Schleifmittel.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.10-7",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Wodurch wird eine Schleifscheibe laut Text beschrieben?",
+      "options": [
+        "Über Drehzahl, Vorschub, Schnitttiefe, Kühlmittel und Gefüge",
+        "Über Schleifmittel, Körnung, Bindung, Härtegrad und Gefüge",
+        "Über Werkstoff, Härte, Form, Maß und Güte",
+        "Über Korund, Diamant, CBN, Honen und Läppen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text nennt fünf Beschreibungsgrößen: Schleifmittel, Körnung, Bindung, Härtegrad und Gefüge.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.10-8",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Was beschreibt der Begriff Schleifbrand laut Text?",
+      "options": [
+        "Das Anbrennen des Kühlmittels bei hohem Druck",
+        "Eine Gefügeschädigung durch Randzonentemperaturen über 1000 Grad Celsius ohne Kühlung",
+        "Das Verglühen der Schleifkörner bei zu geringer Drehzahl",
+        "Eine Verfärbung der Schleifscheibe durch Korund"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text beschreibt, dass ohne Kühlung Randzonentemperaturen über 1000 Grad Celsius entstehen, was als Schleifbrand zu einer Gefügeschädigung führt.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.10-9",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Welche Aussage trifft auf das Spitzenlosschleifen zu?",
+      "options": [
+        "Das Werkstück wird zwischen zwei Spitzen zentriert eingespannt",
+        "Das Werkstück läuft frei zwischen Schleif- und Regelscheibe",
+        "Das Werkstück wird auf einer Honleiste geführt",
+        "Das Werkstück liegt in einem Bad aus losem Korn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Beim Spitzenlosschleifen läuft das Werkstück laut Text frei zwischen Schleif- und Regelscheibe, ideal für zylindrische Massenteile ohne Zentrierung.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.10-10",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Für welche Anwendung ist das Spitzenlosschleifen laut Text ideal?",
+      "options": [
+        "Für richtungsfreie Dichtflächen",
+        "Für zylindrische Massenteile wie Stifte ohne Zentrierung",
+        "Für Motor-Zylinderlaufbahnen mit Kreuzschliff",
+        "Für Halbleiterwafer mit Höchstgüte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text nennt das Spitzenlosschleifen ideal für zylindrische Massenteile wie Stifte ohne Zentrierung.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.10-11",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Wie entsteht beim Honen der charakteristische Kreuzschliff?",
+      "options": [
+        "Durch loses Korn in ungerichteten Bahnen",
+        "Durch die überlagerte Hub- und Drehbewegung bei ständiger Flächenberührung",
+        "Durch die freie Bewegung zwischen Schleif- und Regelscheibe",
+        "Durch hohe Randzonentemperaturen über 1000 Grad Celsius"
+      ],
+      "correctIndex": 1,
+      "explanation": "Honen arbeitet mit gebundenem Korn unter ständiger Flächenberührung; die überlagerte Hub- und Drehbewegung erzeugt den Kreuzschliff.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.10-12",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Welche Funktion erfüllen die sich kreuzenden Riefen des Honens?",
+      "options": [
+        "Sie erhöhen die Härte der Randzone",
+        "Sie halten Öl",
+        "Sie verhindern Schleifbrand",
+        "Sie zentrieren das Werkstück"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text erklärt, dass die sich kreuzenden Riefen des Kreuzschliffs Öl halten, klassisch für Motor-Zylinderlaufbahnen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.10-13",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Welches Merkbild ordnet die drei Feinbearbeitungsverfahren korrekt zu?",
+      "options": [
+        "Schleifen = lose/ungerichtet, Honen = Flächenkontakt/Kreuzschliff, Läppen = gerichtet/gebunden",
+        "Schleifen = gerichtet/gebunden, Honen = Flächenkontakt/Kreuzschliff, Läppen = lose/ungerichtet",
+        "Schleifen = Flächenkontakt/Kreuzschliff, Honen = gerichtet/gebunden, Läppen = lose/ungerichtet",
+        "Schleifen = gerichtet/gebunden, Honen = lose/ungerichtet, Läppen = Flächenkontakt/Kreuzschliff"
+      ],
+      "correctIndex": 1,
+      "explanation": "Das Merkbild im Text lautet: Schleifen = gerichtet/gebunden, Honen = Flächenkontakt/Kreuzschliff, Läppen = lose/ungerichtet.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.10-14",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Welche Aussage zum Läppen trifft laut Text zu?",
+      "options": [
+        "Es nutzt gebundenes Korn und erzeugt einen gerichteten Kreuzschliff",
+        "Es nutzt loses Korn in ungerichteten Bahnen und liefert matte, richtungsfreie Höchstgüte",
+        "Es nutzt eine Regelscheibe zur Führung zylindrischer Stifte",
+        "Es erzeugt Riefen, die Öl halten"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text beschreibt, dass Läppen loses Korn in ungerichteten Bahnen nutzt und matte, richtungsfreie Höchstgüte liefert.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.10-15",
+      "termId": "1.10",
+      "field": "Fertigungstechnik",
+      "termTitle": "Verfahren zur Feinst-Bearbeitung / hohe Fertigungsgenauigkeit",
+      "question": "Welche Rautiefe Rz nennt die Tabelle als Richtwert für feines Schleifen?",
+      "options": [
+        "0,1 bis 10 µm",
+        "0,3 bis 1,6 µm",
+        "matt, richtungsfrei",
+        "über 1000 µm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Tabelle 1.3 liegt die Rautiefe Rz beim feinen Schleifen bei 0,3 bis 1,6 µm, während Honen 0,1 bis 10 µm und Läppen matt/richtungsfrei angegeben ist.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.11-1",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Was nutzt die Laserstrahl-Bearbeitung laut Definition, um den Werkstoff lokal aufzuschmelzen und zu verdampfen?",
+      "options": [
+        "Einen gebündelten, energiereichen Lichtstrahl",
+        "Einen fokussierten Hochdruck-Wasserstrahl",
+        "Einen elektrisch gezündeten Funkenüberschlag",
+        "Einen konzentrierten Plasmagasstrahl"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Definition nutzt die Laserstrahl-Bearbeitung einen gebündelten, energiereichen Lichtstrahl, der den Werkstoff lokal aufschmilzt und verdampft.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.11-2",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Welche Größe entscheidet laut Quellentext darüber, ob der Laser trennt oder fügt?",
+      "options": [
+        "Die Wellenlänge des Lichts",
+        "Die Energiedichte des Strahls",
+        "Der Druck des Schneidgases",
+        "Die Vorschubgeschwindigkeit des Werkstücks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text stellt klar, dass man über die Energiedichte einstellt, ob nur getrennt (sehr hohe Dichte) oder gefügt wird (geringere Dichte).",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.11-3",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Welcher Fertigungshauptgruppe ordnet der Text das Laserschneiden und Laserbohren zu?",
+      "options": [
+        "Fügen",
+        "Umformen",
+        "Trennen bzw. Abtragen",
+        "Beschichten"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Definition gehören Laserschneiden und -bohren zum Trennen bzw. Abtragen, während Laserschweißen dem Fügen zugeordnet wird.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.11-4",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Welches Schneidgas wird im Quellentext für das Laserschneiden von Baustahl genannt?",
+      "options": [
+        "Stickstoff",
+        "Argon",
+        "Helium",
+        "Sauerstoff"
+      ],
+      "correctIndex": 3,
+      "explanation": "Der Text nennt ausdrücklich Sauerstoff als Schneidgas für Baustahl und Stickstoff für Edelstahl.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.11-5",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Welche Aufgabe übernimmt das Schneidgas beim Laserschneiden laut Text?",
+      "options": [
+        "Es treibt die Schmelze aus der Fuge",
+        "Es kühlt die Strahlquelle des Lasers",
+        "Es bündelt den Lichtstrahl zusätzlich",
+        "Es erhöht die Reflexion am Werkstück"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text treibt das Schneidgas beim Schneiden die Schmelze aus der Fuge.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.11-6",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Welche Strahlquellen werden im Quellentext für die Laserstrahl-Bearbeitung genannt?",
+      "options": [
+        "Excimer-, Rubin- und Diodenlaser",
+        "CO2-, Faser- und Nd:YAG-Laser",
+        "Helium-Neon-, Argon- und Farbstofflaser",
+        "CO2-, Excimer- und Halbleiterlaser"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text nennt als Strahlquellen vor allem CO2-, Faser- und Nd:YAG-Laser.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.11-7",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Warum bereiten stark reflektierende Werkstoffe wie Kupfer oder Aluminium laut Text Probleme?",
+      "options": [
+        "Sie verdampfen zu langsam",
+        "Sie binden zu viel Schneidgas",
+        "Sie werfen den Strahl zurück",
+        "Sie verkleben mit der Schneiddüse"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Text bereiten stark reflektierende Werkstoffe wie Kupfer oder Aluminium Probleme, weil sie den Strahl zurückwerfen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.11-8",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Welche der folgenden Aussagen nennt einen im Text genannten Vorteil der Laserstrahl-Bearbeitung?",
+      "options": [
+        "Unbegrenzte Materialdicke bei allen Werkstoffen",
+        "Besonders niedrige Investitionskosten",
+        "Keinerlei thermische Beeinflussung der Randzone",
+        "Berührungslos und kraftfrei, ohne Werkstückspannkräfte"
+      ],
+      "correctIndex": 3,
+      "explanation": "Der Text führt als Vorteil an, dass das Verfahren berührungslos und kraftfrei arbeitet, also keine Werkstückspannkräfte nötig sind.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.11-9",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Welcher Punkt zählt laut Quellentext NICHT zu den Nachteilen der Laserstrahl-Bearbeitung?",
+      "options": [
+        "Frei programmierbare Konturen",
+        "Hohe Investitionskosten",
+        "Begrenzte Materialdicke",
+        "Probleme bei stark reflektierenden Werkstoffen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Frei programmierbare Konturen sind laut Text ein Vorteil; die übrigen Punkte werden ausdrücklich als Nachteile genannt.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.11-10",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Wodurch zeichnet sich die Schnittfuge der Laserstrahl-Bearbeitung laut Text aus?",
+      "options": [
+        "Sehr breit mit großer Wärmeeinflusszone",
+        "Sehr schmal mit enger Wärmeeinflusszone",
+        "Schmal, aber ohne jede Wärmeeinwirkung",
+        "Breit, aber mit besonders kühler Randzone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text nennt als Vorteil eine sehr schmale Schnittfuge mit enger Wärmeeinflusszone.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.11-11",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "In welchem Anwendungsbereich schneiden Faserlaser laut Text Feinbleche konturgenau und fügen Bauteile mit minimalem Verzug?",
+      "options": [
+        "In der Halbleiterfertigung",
+        "Im Werkzeug- und Formenbau",
+        "Im Karosseriebau",
+        "In der Lebensmittelverpackung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Das Anwendungsbeispiel beschreibt den Karosseriebau, in dem Faserlaser Feinbleche schneiden und per Laserschweißen mit minimalem Verzug fügen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.11-12",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Welche Energiedichte-Einstellung gehört laut Text zum Trennen mit schmalem Schnitt?",
+      "options": [
+        "Geringere Energiedichte ohne Durchtrennen",
+        "Konstant mittlere Energiedichte",
+        "Stark schwankende Energiedichte",
+        "Sehr hohe Energiedichte"
+      ],
+      "correctIndex": 3,
+      "explanation": "Laut Text wird bei sehr hoher Energiedichte nur getrennt und ergibt einen schmalen Schnitt, während eine geringere Dichte zum Fügen dient.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.11-13",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Welche Aussage beschreibt am treffendsten, warum dasselbe Verfahren zwei Fertigungshauptgruppen abdeckt?",
+      "options": [
+        "Ein und dieselbe Maschine schaltet über die Energiedichte zwischen Trennen und Fügen um",
+        "Zwei getrennte Laserquellen erzeugen Schneiden und Schweißen nacheinander",
+        "Erst durch Wechsel des Schneidgases entsteht aus dem Trennen ein Fügen",
+        "Nur durch Tausch der Optik wird aus dem Schneidlaser ein Schweißlaser"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text betont, dass ein und dieselbe Maschine über die Energiedichte zwischen Trennen und Fügen umschaltet, was die Nähe beider Hauptgruppen zeigt.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.11-14",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Auf wie kleinem Raum entsteht laut Wirkprinzip die metallschmelzende Energiedichte des gebündelten Lichts?",
+      "options": [
+        "Auf wenigen Zehntelmillimetern",
+        "Auf wenigen Hundertstelmillimetern",
+        "Auf wenigen Zentimetern",
+        "Auf einem Quadratmillimeter genau"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Wirkprinzip bündelt der Laser das Licht so stark, dass auf wenigen Hundertstelmillimetern eine Metall augenblicklich schmelzende Energiedichte entsteht.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.11-15",
+      "termId": "1.11",
+      "field": "Fertigungstechnik",
+      "termTitle": "Laserstrahl-Bearbeitung",
+      "question": "Welche Aussage zur Quellenlage des Begriffs im Skript trifft laut Hinweis zu?",
+      "options": [
+        "Der Begriff ist im Skript vollständig mit Formeln hergeleitet",
+        "Das Laserschweißen ist im Skript ausführlicher behandelt als das Schneiden",
+        "Im Skript steht nur ein Bild Laserschneiden, der Rest ist aus Fachwissen ergänzt",
+        "Im Skript fehlt jeder Bezug zur Laserstrahl-Bearbeitung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Hinweis stellt klar, dass im Skript nur ein Bild Laserschneiden vorhanden ist und der übrige Inhalt aus Fachwissen ergänzt wurde.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.12-1",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Was beschreibt das Verfahren des Wasserstrahlschneidens grundlegend?",
+      "options": [
+        "Trennen mit einem unter hohem Druck stehenden, düsengebündelten Wasserstrahl",
+        "Trennen durch einen fokussierten Lichtstrahl mit hohem Wärmeeintrag",
+        "Trennen mittels einer schnell rotierenden Hartmetallscheibe",
+        "Trennen durch einen elektrisch erzeugten Lichtbogen unter Schutzgas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Definition trennt das Wasserstrahlschneiden mit einem unter ca. 3000-6000 bar stehenden, düsengebündelten Wasserstrahl.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.12-2",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "In welchem Druckbereich arbeitet das Wasserstrahlschneiden gemäß Definition?",
+      "options": [
+        "ca. 300-600 bar",
+        "ca. 3000-6000 bar",
+        "ca. 30-60 bar",
+        "ca. 30000-60000 bar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Die Definition nennt einen Druckbereich von ca. 3000-6000 bar für den düsengebündelten Wasserstrahl.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.12-3",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Wodurch lassen sich beim Wasserstrahlschneiden auch harte Werkstoffe und Metalle trennen?",
+      "options": [
+        "Durch Erhöhung der Wassertemperatur vor dem Düsenaustritt",
+        "Durch eine zusätzliche elektrische Vorwärmung des Werkstücks",
+        "Durch ein zudosiertes Abrasivmittel (Abrasivwasserstrahl)",
+        "Durch Beimischung von Schutzgas in den Wasserstrahl"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mit zudosiertem Abrasivmittel (Abrasivwasserstrahl) lassen sich laut Text auch harte Werkstoffe und Metalle bearbeiten.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.12-4",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Welche Materialien werden typischerweise mit reinem Wasser (ohne Abrasiv) geschnitten?",
+      "options": [
+        "Stein, Glas und gehärteter Werkzeugstahl",
+        "Dichtungen, Schaum und Lebensmittel",
+        "Edelstahlbleche und Aluminiumprofile",
+        "Keramikplatten und Hartmetallwerkzeuge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reines Wasser schneidet laut Text Weiches wie Dichtungen, Schaum und Lebensmittel.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.12-5",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Welcher Vorteil wird im Text als der entscheidende Punkt des Wasserstrahlschneidens hervorgehoben?",
+      "options": [
+        "Die besonders hohe Schnittgeschwindigkeit bei dicken Teilen",
+        "Der kalte Schnitt praktisch ohne Wärmeeintrag",
+        "Die vollständig konische, gleichmäßige Schnittkante",
+        "Die sehr niedrigen Betriebskosten des Verfahrens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der entscheidende Punkt ist laut Text der kalte Schnitt: Es gibt praktisch keinen Wärmeeintrag und damit keine Wärmeeinflusszone.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.12-6",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Warum bleiben beim Wasserstrahlschneiden Gefüge, Härte und Beschichtungen unverändert?",
+      "options": [
+        "Weil der Strahl das Material lediglich plastisch verformt statt zu trennen",
+        "Weil das Wasser das Werkstück gleichmäßig auf Betriebstemperatur kühlt",
+        "Weil praktisch kein Wärmeeintrag erfolgt und keine Wärmeeinflusszone entsteht",
+        "Weil das Abrasivmittel eine schützende Schicht auf der Schnittkante bildet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Da es praktisch keinen Wärmeeintrag und damit keine Wärmeeinflusszone gibt, bleiben Gefüge, Härte und Beschichtungen unverändert.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.12-7",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Welche der folgenden Eigenschaften zählt laut Text zu den Vorteilen des Wasserstrahlschneidens?",
+      "options": [
+        "Hohe Schnittgeschwindigkeit auch bei sehr dicken Teilen",
+        "Geringe Bearbeitungskräfte am Werkstück",
+        "Vollständig trockener Bearbeitungsprozess",
+        "Sehr geringe Betriebskosten durch entfallendes Abrasiv"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zu den Vorteilen zählt der Text unter anderem die geringen Bearbeitungskräfte.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.12-8",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Welche der folgenden Aussagen nennt einen Nachteil des Wasserstrahlschneidens korrekt?",
+      "options": [
+        "Es entsteht eine ausgeprägte Wärmeeinflusszone an der Schnittkante",
+        "Die Schnittgeschwindigkeit ist bei dicken Teilen vergleichsweise gering",
+        "Das Verfahren ist auf wenige metallische Werkstoffe beschränkt",
+        "Die Bearbeitungskräfte auf das Werkstück sind sehr hoch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Als Nachteil nennt der Text die vergleichsweise geringe Schnittgeschwindigkeit bei dicken Teilen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.12-9",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Was versteht der Text unter der Strahlaufweitung beim Wasserstrahlschneiden?",
+      "options": [
+        "Eine leichte Konizität der Schnittkante",
+        "Ein Aufschäumen des Wassers nach dem Düsenaustritt",
+        "Eine Verbreiterung des Druckbereichs während des Schnitts",
+        "Ein seitliches Wegspritzen des Abrasivmittels vom Werkstück"
+      ],
+      "correctIndex": 0,
+      "explanation": "Die Strahlaufweitung äußert sich laut Text als leichte Konizität der Schnittkante.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.12-10",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Wodurch entstehen laut Text vor allem die hohen Betriebskosten des Wasserstrahlschneidens?",
+      "options": [
+        "Durch Schutzgas und Vorwärmung des Werkstücks",
+        "Durch Abrasiv und die Hochdruckpumpe",
+        "Durch Werkzeugverschleiß und Schneidscheibenwechsel",
+        "Durch Elektrodenverbrauch und Kühlmittel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text führt die hohen Betriebskosten auf Abrasiv und die Hochdruckpumpe zurück.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.12-11",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "In welcher Situation ist laut Text der Wasserstrahl gegenüber dem Laser die richtige Wahl?",
+      "options": [
+        "Wenn maximale Schnittgeschwindigkeit das wichtigste Kriterium ist",
+        "Wenn thermische Neutralität und Werkstoffvielfalt wichtiger sind als Tempo",
+        "Wenn ausschließlich sehr dünne Bleche getrennt werden sollen",
+        "Wenn ein vollständig trockener Bearbeitungsprozess gefordert ist"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Wasserstrahl ist laut Text die Wahl, wenn thermische Neutralität und Werkstoffvielfalt wichtiger sind als Tempo.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.12-12",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Warum eignet sich der Abrasivwasserstrahl im Anwendungsbeispiel besonders für die gehärtete Werkzeugplatte mit feiner Innenkontur?",
+      "options": [
+        "Weil die hohe Schnittgeschwindigkeit die Fertigungszeit drastisch verkürzt",
+        "Weil durch den fehlenden Wärmeeintrag die Härte der Randzone erhalten bleibt",
+        "Weil das Abrasiv die Randzone zusätzlich nachhärtet",
+        "Weil die Schnittkante völlig konizitätsfrei und maßgenau wird"
+      ],
+      "correctIndex": 1,
+      "explanation": "Weil kein Wärmeeintrag erfolgt, bleibt im Beispiel die Härte der Randzone erhalten.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.12-13",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Welcher Nachteil entstünde laut Anwendungsbeispiel beim Laser- oder Brennschneiden der gehärteten Werkzeugplatte?",
+      "options": [
+        "Man müsste Gefügeveränderungen in Kauf nehmen und nachhärten",
+        "Man müsste deutlich höhere Betriebskosten durch Abrasiv tragen",
+        "Man müsste mit einer stark konischen Schnittkante rechnen",
+        "Man müsste das Werkstück durch hohe Bearbeitungskräfte einspannen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Beispiel müsste man beim Laser- oder Brennschneiden Gefügeveränderungen in Kauf nehmen und nachhärten.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.12-14",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Welche Aussage zur Werkstoffeignung des Wasserstrahlschneidens trifft auf Basis des Textes zu?",
+      "options": [
+        "Das Verfahren ist auf nichtmetallische Werkstoffe beschränkt",
+        "Das Verfahren ist nahezu materialunabhängig einsetzbar",
+        "Das Verfahren eignet sich nur für sehr dünne Werkstücke",
+        "Das Verfahren funktioniert nur bei elektrisch leitfähigen Werkstoffen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text nennt als Vorteil die nahezu materialunabhängige Einsetzbarkeit des Verfahrens.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.12-15",
+      "termId": "1.12",
+      "field": "Fertigungstechnik",
+      "termTitle": "Wasserstrahl-Bearbeitung",
+      "question": "Welche Kombination aus Strahlart und passendem Einsatzbereich entspricht dem Text?",
+      "options": [
+        "Reiner Wasserstrahl für Stein und Glas, Abrasivwasserstrahl für Schaum",
+        "Abrasivwasserstrahl für Dichtungen, reiner Wasserstrahl für Metall",
+        "Reiner Wasserstrahl für weiche Werkstoffe, Abrasivwasserstrahl für Metall, Stein und Glas",
+        "Reiner Wasserstrahl für gehärteten Stahl, Abrasivwasserstrahl für Lebensmittel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Text schneidet reines Wasser Weiches, während für Metall, Stein oder Glas Abrasivsand zugemischt wird.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.13-1",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Was beschreibt den Begriff Schweißen am treffendsten?",
+      "options": [
+        "Stoffschlüssiges Fügen unter Einsatz von Wärme und/oder Kraft",
+        "Formschlüssiges Verbinden zweier Bauteile durch mechanische Verspannung",
+        "Kraftschlüssiges Zusammenhalten mithilfe von Klemmverbindungen",
+        "Trennen eines Werkstücks durch örtliches Aufschmelzen des Materials"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Definition ist Schweißen stoffschlüssiges Fügen unter Einsatz von Wärme und/oder Kraft.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.13-2",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Welcher Hauptgruppe der Fertigungsverfahren ist das Schweißen zugeordnet?",
+      "options": [
+        "Trennen",
+        "Fügen",
+        "Umformen",
+        "Beschichten"
+      ],
+      "correctIndex": 1,
+      "explanation": "Schweißen gehört zur Hauptgruppe Fügen, da es den Zusammenhalt vermehrt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.13-3",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "In welche zwei Familien wird das Schweißen unterteilt?",
+      "options": [
+        "Hartschweißen und Weichschweißen",
+        "Gasschweißen und Lichtbogenschweißen",
+        "Schmelzschweißen und Pressschweißen",
+        "Punktschweißen und Nahtschweißen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Text nennt als zwei Familien das Schmelzschweißen und das Pressschweißen.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.13-4",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Warum ist Schweißen dem Fügen und nicht dem Trennen zuzuordnen?",
+      "options": [
+        "Weil es ohne Einsatz von Wärme auskommt",
+        "Weil es den Zusammenhalt der Teile vermehrt",
+        "Weil dabei stets ein Zusatzwerkstoff abgetragen wird",
+        "Weil es den Grundwerkstoff in seine Bestandteile zerlegt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Schweißen vermehrt den Zusammenhalt und ist daher Fügen, nicht Trennen; dies ist laut Text die typische Fangfrage.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.13-5",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Wodurch ist das Schmelzschweißen gekennzeichnet?",
+      "options": [
+        "Die Teile werden ausschließlich unter Druck ohne Wärme verbunden",
+        "Der Grundwerkstoff wird örtlich aufgeschmolzen, meist mit Zusatzwerkstoff",
+        "Es wird nur eine Oberflächenschicht aufgetragen, ohne den Grundwerkstoff zu erwärmen",
+        "Die Teile werden unterhalb der Schmelztemperatur des Grundwerkstoffs gefügt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Beim Schmelzschweißen erfolgt örtliches Aufschmelzen des Grundwerkstoffs, meist mit Zusatzwerkstoff.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.13-6",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Welche Aussage zum Pressschweißen trifft zu?",
+      "options": [
+        "Die Teile werden unter Druck und meist Wärme verschweißt, ohne sie vollständig zu verflüssigen",
+        "Die Teile werden vollständig aufgeschmolzen und erstarren anschließend zur Naht",
+        "Es kommt grundsätzlich ohne jede Wärmezufuhr und nur durch Zugkraft zustande",
+        "Es wird ausschließlich mit nicht abschmelzender Wolframelektrode durchgeführt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beim Pressschweißen werden die Teile unter Druck und meist Wärme verschweißt, ohne sie vollständig zu verflüssigen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.13-7",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Welche Gruppe von Schweißverfahren dominiert laut Text die wichtigsten Verfahren?",
+      "options": [
+        "Gasschmelzverfahren",
+        "Laserstrahlverfahren",
+        "Widerstandsverfahren",
+        "Lichtbogenverfahren"
+      ],
+      "correctIndex": 3,
+      "explanation": "Der Text stellt fest, dass die Lichtbogenverfahren dominieren.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.13-8",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Welches Merkmal kennzeichnet das WIG/TIG-Schweißen?",
+      "options": [
+        "Es verwendet eine umhüllte Stabelektrode",
+        "Es arbeitet mit einer abschmelzenden Drahtelektrode unter Schutzgas",
+        "Es verwendet eine nicht abschmelzende Wolframelektrode und liefert sehr saubere Nähte",
+        "Es ist ein typischer Vertreter des Pressschweißens im Karosseriebau"
+      ],
+      "correctIndex": 2,
+      "explanation": "WIG/TIG arbeitet mit einer nicht abschmelzenden Wolframelektrode und erzeugt sehr saubere Nähte.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.13-9",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Wodurch zeichnet sich das MIG/MAG-Schweißen laut Text aus?",
+      "options": [
+        "Nicht abschmelzende Wolframelektrode für besonders saubere Nähte",
+        "Abschmelzende Drahtelektrode unter Schutzgas, schnell und automatisierbar",
+        "Umhüllte Stabelektrode für den manuellen Einsatz vor Ort",
+        "Widerstandserwärmung unter Druck ohne Zusatzwerkstoff"
+      ],
+      "correctIndex": 1,
+      "explanation": "MIG/MAG nutzt eine abschmelzende Drahtelektrode unter Schutzgas und ist schnell sowie automatisierbar.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.13-10",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Welches Verfahren wird im Text als typischer Vertreter des Pressschweißens genannt?",
+      "options": [
+        "Das WIG/TIG-Schweißen in der Apparatefertigung",
+        "Das E-Hand-Schweißen mit umhüllter Stabelektrode",
+        "Das Widerstandspunktschweißen im Karosseriebau",
+        "Das Laserstrahlschweißen in der Feinmechanik"
+      ],
+      "correctIndex": 2,
+      "explanation": "Als typischer Vertreter des Pressschweißens nennt der Text das Widerstandspunktschweißen im Karosseriebau.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.13-11",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Welche Elektrodenart ist beim E-Hand-Schweißen charakteristisch?",
+      "options": [
+        "Eine umhüllte Stabelektrode",
+        "Eine abschmelzende Drahtelektrode unter Schutzgas",
+        "Eine nicht abschmelzende Wolframelektrode",
+        "Zwei gegeneinander gepresste Kupferelektroden"
+      ],
+      "correctIndex": 0,
+      "explanation": "Das E-Hand-Verfahren ist durch eine umhüllte Stabelektrode gekennzeichnet.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.13-12",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Wovon hängt es laut Text ab, welches Schweißverfahren passt?",
+      "options": [
+        "Ausschließlich vom Preis des Zusatzwerkstoffs",
+        "Von Werkstoff, Blechdicke, Nahtgüte und Automatisierungsgrad",
+        "Allein von der Verfügbarkeit eines Schutzgases",
+        "Nur von der Farbe und Oberfläche des Bauteils"
+      ],
+      "correctIndex": 1,
+      "explanation": "Die Verfahrenswahl hängt von Werkstoff, Blechdicke, Nahtgüte und Automatisierungsgrad ab.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.13-13",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Worin besteht der zentrale Unterschied zwischen Schweißen und Löten?",
+      "options": [
+        "Schweißen ist formschlüssig, Löten ist stoffschlüssig",
+        "Schweißen erfolgt ohne Wärme, Löten benötigt stets hohe Temperaturen",
+        "Schweißen schmilzt den Grundwerkstoff auf, Löten fügt unterhalb dessen Schmelztemperatur",
+        "Schweißen erzeugt lösbare Verbindungen, Löten erzeugt unlösbare Verbindungen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Schweißen schmilzt den Grundwerkstoff auf, während Löten unterhalb dessen Schmelztemperatur fügt.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.13-14",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Warum wäre Schweißen für die temperaturempfindlichen Halbleiter (OPA2333, ADM2587E) auf der HPECT-MX-Platine ungeeignet?",
+      "options": [
+        "Weil Schweißen keine stoffschlüssige Verbindung erzeugt",
+        "Weil das Aufschmelzen des Grundwerkstoffs für die empfindlichen Bauteile zerstörerisch wäre",
+        "Weil Schweißen ausschließlich für Kunststoffe einsetzbar ist",
+        "Weil Schweißen eine geringere Festigkeit als Kleben liefert"
+      ],
+      "correctIndex": 1,
+      "explanation": "Da Schweißen den Grundwerkstoff aufschmilzt, wäre es für die temperaturempfindlichen Halbleiter zerstörerisch; daher ist Löten hier richtig.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.13-15",
+      "termId": "1.13",
+      "field": "Fertigungstechnik",
+      "termTitle": "Schweißen",
+      "question": "Welche Aussage über das Erstarren beim Schmelzschweißen ist korrekt?",
+      "options": [
+        "Beim Erstarren entsteht eine lösbare Klebeverbindung geringer Festigkeit",
+        "Der aufgeschmolzene Grundwerkstoff verbindet sich beim Erstarren zu einer unlösbaren, hochfesten Naht",
+        "Der Grundwerkstoff bleibt fest und wird nur durch Druck verformt",
+        "Es entsteht eine formschlüssige Verbindung ohne stofflichen Zusammenhalt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Beim Schmelzschweißen verbindet sich der aufgeschmolzene Grundwerkstoff beim Erstarren zu einer unlösbaren, hochfesten Naht.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.14-1",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Was bewirkt das Fügen (Hauptgruppe 4) laut Definition grundsätzlich?",
+      "options": [
+        "Es verbindet zwei oder mehr Werkstücke dauerhaft, wobei der Zusammenhalt vermehrt wird.",
+        "Es trennt ein Werkstück in mehrere Teile, wobei der Zusammenhalt vermindert wird.",
+        "Es verändert die Form eines Werkstücks ohne Massenänderung durch plastisches Umformen.",
+        "Es schafft eine erste feste Form aus formlosem Stoff durch Erstarren der Schmelze."
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Definition verbindet Fügen zwei oder mehr Werkstücke dauerhaft, der Zusammenhalt wird vermehrt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.14-2",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "In wie viele Gruppen gliedert die DIN 8593 das Fügen?",
+      "options": [
+        "In sieben Gruppen.",
+        "In acht Gruppen.",
+        "In neun Gruppen.",
+        "In zehn Gruppen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Text nennt ausdrücklich, dass die DIN 8593 das Fügen in neun Gruppen gliedert.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.14-3",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Welche drei Grundprinzipien des Verbindens stehen laut Text hinter den neun Fügegruppen?",
+      "options": [
+        "Formschlüssig, kraftschlüssig und stoffschlüssig.",
+        "Lösbar, unlösbar und teillösbar.",
+        "Thermisch, mechanisch und chemisch.",
+        "Schweißen, Löten und Kleben."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hinter den neun Gruppen stehen die drei Grundprinzipien formschlüssig, kraftschlüssig und stoffschlüssig.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.14-4",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Welches Verbindungsprinzip liegt vor, wenn die Geometrie den Zusammenhalt herstellt (z. B. Schrauben, Nieten, Stecken)?",
+      "options": [
+        "Kraftschlüssig.",
+        "Stoffschlüssig.",
+        "Formschlüssig.",
+        "Reibschlüssig."
+      ],
+      "correctIndex": 2,
+      "explanation": "Beim formschlüssigen Prinzip hält die Geometrie, Beispiele sind Schrauben, Nieten und Stecken.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.14-5",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Wodurch hält eine kraftschlüssige Verbindung laut Text zusammen?",
+      "options": [
+        "Durch den Materialzusammenhalt der verschmolzenen Werkstoffe.",
+        "Durch Reibung bzw. Vorspannung, etwa beim Pressverband oder bei der Klemmung.",
+        "Durch die ineinandergreifende Geometrie der Bauteile.",
+        "Durch einen Zusatzwerkstoff mit niedrigerem Schmelzpunkt."
+      ],
+      "correctIndex": 1,
+      "explanation": "Beim kraftschlüssigen Prinzip hält Reibung bzw. Vorspannung, genannte Beispiele sind Pressverband und Klemmung.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.14-6",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Welche Aussage zum stoffschlüssigen Fügen trifft laut Text zu?",
+      "options": [
+        "Der Materialzusammenhalt hält, Beispiele sind Schweißen, Löten und Kleben; die Verbindung ist unlösbar.",
+        "Die Vorspannung hält, Beispiele sind Pressverband und Klemmung; die Verbindung ist lösbar.",
+        "Die Geometrie hält, Beispiele sind Schrauben und Nieten; die Verbindung ist immer lösbar.",
+        "Die Reibung hält, Beispiele sind Stecken und Nieten; die Verbindung ist unlösbar."
+      ],
+      "correctIndex": 0,
+      "explanation": "Beim stoffschlüssigen Prinzip hält der Materialzusammenhalt; genannt werden Schweißen, Löten und Kleben als unlösbar.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.14-7",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Welche der folgenden Gruppen gehört NICHT zu den neun Gruppen der DIN 8593?",
+      "options": [
+        "Fügen durch Urformen.",
+        "Fügen durch Umformen.",
+        "Fügen durch Trennen.",
+        "Textiles Fügen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Die neun Gruppen umfassen u. a. Fügen durch Urformen, Umformen und textiles Fügen; Fügen durch Trennen ist nicht genannt.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.14-8",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Was kennzeichnet das Löten gegenüber anderen stoffschlüssigen Verfahren laut Text?",
+      "options": [
+        "Es verbindet ohne Zusatzwerkstoff allein durch Aufschmelzen der Grundwerkstoffe.",
+        "Es verbindet mit einem Zusatzwerkstoff, dessen Schmelzpunkt unter dem der Grundwerkstoffe liegt, sodass die Bauteile selbst nicht schmelzen.",
+        "Es verbindet mit einem Zusatzwerkstoff, dessen Schmelzpunkt über dem der Grundwerkstoffe liegt, sodass die Bauteile teilweise schmelzen.",
+        "Es verbindet ausschließlich kraftschlüssig durch Vorspannung des Zusatzwerkstoffs."
+      ],
+      "correctIndex": 1,
+      "explanation": "Beim Löten liegt der Schmelzpunkt des Zusatzwerkstoffs unter dem der Grundwerkstoffe, die Bauteile selbst schmelzen nicht.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.14-9",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Wo verläuft laut Text die Temperaturgrenze zwischen Weichlöten und Hartlöten?",
+      "options": [
+        "Bei 300 Grad Celsius.",
+        "Bei 450 Grad Celsius.",
+        "Bei 600 Grad Celsius.",
+        "Bei 750 Grad Celsius."
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text gibt Weichlöten mit unter 450 Grad Celsius und Hartlöten mit über 450 Grad Celsius an.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.14-10",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Warum ist Löten laut Text der Standard der Elektronikfertigung?",
+      "options": [
+        "Weil die Grundwerkstoffe vollständig aufgeschmolzen werden und so maximale Festigkeit entsteht.",
+        "Weil hitzeempfindliche Bauteile elektrisch leitend und mechanisch sicher verbunden werden müssen, ohne selbst zu schmelzen.",
+        "Weil es die einzige lösbare Verbindung für elektronische Bauteile darstellt.",
+        "Weil es kraftschlüssig arbeitet und dadurch besonders schnell wieder demontierbar ist."
+      ],
+      "correctIndex": 1,
+      "explanation": "Da die Bauteile nicht selbst schmelzen, eignet sich Löten für hitzeempfindliche Bauteile, die elektrisch leitend und mechanisch sicher verbunden werden müssen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.14-11",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Welche Anforderungen können laut Text die Wahl eines Fügeverfahrens bestimmen?",
+      "options": [
+        "Ausschließlich, ob die Verbindung lösbar oder unlösbar sein soll.",
+        "Lösbar vs. unlösbar, belastbar, dicht, elektrisch leitend und temperaturfest.",
+        "Nur die Oberflächengüte und die Maßhaltigkeit der Fügeteile.",
+        "Lediglich die Schmelztemperatur der eingesetzten Grundwerkstoffe."
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text nennt als Anforderungen lösbar vs. unlösbar, belastbar, dicht, elektrisch leitend und temperaturfest.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.14-12",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Welchem Fügeprinzip und welcher DIN-8593-Gruppe ist das Fügen der HPECT-MX-Leiterplatte in der Bachelorarbeit zuzuordnen?",
+      "options": [
+        "Kraftschlüssig, Fügen durch Umformen (Gruppe 5).",
+        "Formschlüssig, Zusammensetzen (Gruppe 1).",
+        "Stoffschlüssig, Fügen durch Löten (Gruppe 7).",
+        "Stoffschlüssig, Fügen durch Kleben (Gruppe 8)."
+      ],
+      "correctIndex": 2,
+      "explanation": "Die Leiterplatte wird durch Weichlöten gefügt, was stoffschlüssig ist und der DIN 8593, Gruppe 7 (Fügen durch Löten) entspricht.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.14-13",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Wie werden die SMD-Bauteile auf der Leiterplatte der Bachelorarbeit gefügt?",
+      "options": [
+        "Durch Hartlöten im Tauchbad auf die Bohrungen.",
+        "Durch Weichlöten im Reflow-Prozess auf die Pads.",
+        "Durch Kleben mit leitfähigem Epoxidharz auf die Pads.",
+        "Durch Klemmen in formschlüssige Steckkontakte."
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text werden die SMD-Bauteile im Reflow-Prozess durch Weichlöten auf die Pads gelötet.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.14-14",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Welche Rolle spielt die in der Bachelorarbeit gewählte ENIG-Oberflächenveredelung fügetechnisch?",
+      "options": [
+        "Sie verbessert die Lötbarkeit der feinen QFN-Pads und ist thermisch günstiger als HASL.",
+        "Sie erhöht die Klemmkraft der formschlüssigen Steckverbindungen.",
+        "Sie senkt den Schmelzpunkt der Grundwerkstoffe unter den des Zusatzwerkstoffs.",
+        "Sie ersetzt das Löten durch eine rein kraftschlüssige Verbindung der Pads."
+      ],
+      "correctIndex": 0,
+      "explanation": "Die ENIG-Veredelung (chemisch Nickel/Gold) verbessert die Lötbarkeit der feinen QFN-Pads und ist thermisch günstiger als HASL.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.14-15",
+      "termId": "1.14",
+      "field": "Fertigungstechnik",
+      "termTitle": "Fügeverfahren",
+      "question": "Warum ist das stoffschlüssige Löten in der Bachelorarbeit dem form- oder kraftschlüssigen Fügen überlegen?",
+      "options": [
+        "Weil es leicht lösbar und damit besonders wartungsfreundlich ist.",
+        "Weil es höhere Vorspannkräfte als jede Schraubverbindung erzeugt.",
+        "Weil es zugleich leitfähig, gedämpft und extrem platzsparend ist.",
+        "Weil die Grundwerkstoffe dabei vollständig aufgeschmolzen werden."
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Text ist Löten hier überlegen, weil es zugleich leitfähig, gedämpft und extrem platzsparend ist.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.15-1",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Was sind Industrieroboter laut Definition?",
+      "options": [
+        "Frei programmierbare, mehrachsige Handhabungsautomaten, die Fertigungs- und Handhabungsaufgaben übernehmen",
+        "Fest verdrahtete Einzweckmaschinen, die nur eine einzige Bewegung ausführen können",
+        "Manuell gesteuerte Greifvorrichtungen ohne eigene Achsantriebe",
+        "Stationäre Werkzeugmaschinen zur spanenden Bearbeitung von Werkstücken"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text definiert Industrieroboter als frei programmierbare, mehrachsige Handhabungsautomaten, die Fertigungs- und Handhabungsaufgaben übernehmen.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.15-2",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Welche Bauform ist bei Industrierobotern typisch?",
+      "options": [
+        "Linearportal mit zwei translatorischen Achsen",
+        "6-achsiger Knickarmroboter",
+        "Einarmiger Schwenkroboter mit drei Achsen",
+        "Deltaroboter mit paralleler Kinematik und vier Achsen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text handelt es sich bei Industrierobotern meist um 6-achsige Knickarmroboter.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.15-3",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Welche der folgenden Aufgaben wird im Text NICHT ausdrücklich als typische Roboteraufgabe genannt?",
+      "options": [
+        "Schweißen",
+        "Lackieren",
+        "Zerspanen",
+        "Bestücken"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der Text nennt Handling, Schweißen, Montage, Lackieren, Bestücken und Prüfen, jedoch nicht Zerspanen als typische Roboteraufgabe.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.15-4",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Welche Treiber für den Einsatz von Robotern in der Fertigung nennt der Text?",
+      "options": [
+        "Senkung der Materialkosten und Verkürzung der Lieferwege",
+        "Reduktion des Energieverbrauchs und Verkleinerung der Produktionsfläche",
+        "Erhöhung der Produktvielfalt und Verkürzung der Entwicklungszeit",
+        "Automatisierungsgrad und Industrie 4.0, gleichbleibende Qualität, höhere Produktivität sowie Entlastung"
+      ],
+      "correctIndex": 3,
+      "explanation": "Als Treiber nennt der Text Automatisierungsgrad und Industrie 4.0, gleichbleibende Qualität, höhere Produktivität und die Entlastung von gefährlichen, schweren oder monotonen Tätigkeiten.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.15-5",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Wodurch wird laut Text der besondere Vorteil eines Roboters gegenüber manueller Arbeit beschrieben?",
+      "options": [
+        "Er kann jede Bewegung selbstständig neu erfinden und anpassen",
+        "Er wiederholt eine Bewegung tausendfach mit derselben Präzision",
+        "Er benötigt keinerlei Programmierung vor dem Einsatz",
+        "Er arbeitet ausschließlich an Bewegungen, die der Mensch nicht kennt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text betont, dass ein Roboter eine Bewegung tausendfach mit derselben Präzision wiederholt, was manuelle Arbeit nicht leisten kann.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.15-6",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Welche drei Kenngrößen sind laut Text für Roboter kennzeichnend?",
+      "options": [
+        "Bauraum, Gewicht und Anschlussleistung",
+        "Taktzeit, Reichweite und Energieeffizienz",
+        "Freiheitsgrade, Wiederholgenauigkeit und Traglast",
+        "Verfahrweg, Drehzahl und Vorschubkraft"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kennzeichnend sind laut Text die Freiheitsgrade (Achsen), die Wiederholgenauigkeit und die Traglast.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.15-7",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Wie viele Freiheitsgrade beziehungsweise Achsen sind bei Industrierobotern typisch?",
+      "options": [
+        "Sechs",
+        "Drei",
+        "Vier",
+        "Acht"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text nennt als typische Zahl der Freiheitsgrade beziehungsweise Achsen sechs.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "1.15-8",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Welche Aufgaben übernehmen Roboter laut Text an Werkzeugmaschinen?",
+      "options": [
+        "Die Programmierung der NC-Steuerung und die Werkzeugkorrektur",
+        "Die Wartung der Spindel und das Nachschärfen der Werkzeuge",
+        "Die Qualitätskontrolle der Maßhaltigkeit durch optische Messung",
+        "Die Be- und Entladung sowie den Werkstück- und Werkzeugwechsel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Laut Text übernehmen Roboter an Werkzeugmaschinen die Be- und Entladung, den Werkstück- und Werkzeugwechsel.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.15-9",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Wozu verketten Roboter laut Text Bearbeitungszentren?",
+      "options": [
+        "Zu manuell bedienten Einzelarbeitsplätzen",
+        "Zu automatisierten Fertigungszellen",
+        "Zu zentralen Werkzeuglagern",
+        "Zu räumlich getrennten Prüfstationen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text beschreibt, dass Roboter Bearbeitungszentren zu automatisierten Fertigungszellen verketten.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.15-10",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Was kennzeichnet die Mensch-Roboter-Kollaboration (Cobots) laut Text?",
+      "options": [
+        "Sie arbeiten ausschließlich hinter einem trennenden Schutzzaun",
+        "Sie ersetzen den Menschen vollständig in der gesamten Fertigungszelle",
+        "Sie arbeiten ohne trennenden Schutzzaun direkt mit dem Menschen zusammen",
+        "Sie sind ausschließlich für Schweißaufgaben an Werkzeugmaschinen vorgesehen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Text arbeiten Cobots ohne trennenden Schutzzaun direkt mit dem Menschen zusammen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.15-11",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Wie wird die Mensch-Roboter-Kollaboration im Text bezeichnet?",
+      "options": [
+        "Als auslaufendes Konzept ohne praktische Bedeutung",
+        "Als reine Forschungsidee ohne industrielle Anwendung",
+        "Als gesetzlich verbotene Arbeitsform",
+        "Als wachsender Trend"
+      ],
+      "correctIndex": 3,
+      "explanation": "Der Text bezeichnet die Mensch-Roboter-Kollaboration (Cobots) ausdrücklich als wachsenden Trend.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.15-12",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Welche Aussage zur Mensch-Roboter-Kollaboration trifft laut Text zu?",
+      "options": [
+        "Cobots benötigen zwingend einen trennenden Schutzzaun zwischen Mensch und Maschine",
+        "Cobots arbeiten direkt mit dem Menschen zusammen und sind ein wachsender Trend",
+        "Cobots sind ausschließlich für die Lackierung großer Bauteile geeignet",
+        "Cobots ersetzen die klassischen Knickarmroboter vollständig in der Fertigung"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Text beschreibt Cobots als wachsenden Trend, der ohne trennenden Schutzzaun direkt mit dem Menschen zusammenarbeitet.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.15-13",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Durch welches Verfahren erfolgt laut Brücke zur Bachelorarbeit die SMD-Bestückung der HPECT-MX-Platine?",
+      "options": [
+        "Durch manuelles Löten der Bauteile von Hand",
+        "Durch Pick-and-Place-Automaten beim Fertiger",
+        "Durch chemisches Aufbringen der Bauteile im Tauchbad",
+        "Durch Aufkleben der Bauteile mittels Schablonendruck ohne Automat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laut Text erfolgt die SMD-Bestückung der Platine beim Fertiger durch Pick-and-Place-Automaten.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "1.15-14",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "Warum ist die automatisierte Bestückung laut Brücke zur Bachelorarbeit für die feinen Gehäusebauformen entscheidend?",
+      "options": [
+        "Weil ohne sie die feinen Gehäusebauformen wie der STM32 im VFBGA-Gehäuse nicht zuverlässig fügbar wären",
+        "Weil sie die Bauteile gegenüber der Handbestückung deutlich verbilligt",
+        "Weil sie den Reflow-Ofen vollständig überflüssig macht",
+        "Weil sie ausschließlich große Bauteile sicher platzieren kann"
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Text erklärt, dass ohne die automatisierte Bestückung die feinen Gehäusebauformen, etwa der STM32 im VFBGA-Gehäuse, gar nicht zuverlässig fügbar wären.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "1.15-15",
+      "termId": "1.15",
+      "field": "Fertigungstechnik",
+      "termTitle": "Robotik in der Fertigung",
+      "question": "In welcher Reihenfolge laufen laut Brücke zur Bachelorarbeit Bestückung und Lötung ab?",
+      "options": [
+        "Zuerst lötet der Reflow-Ofen, danach setzt der Bestückungsroboter die Bauteile",
+        "Bestückung und Lötung erfolgen gleichzeitig im selben Arbeitsschritt",
+        "Der Bestückungsroboter setzt die QFN- und 0402-Bauteile, bevor der Reflow-Ofen lötet",
+        "Die Bauteile werden von Hand gelötet, bevor der Roboter sie setzt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Text setzt der Bestückungsroboter die QFN- und 0402-Bauteile mit hoher Wiederholgenauigkeit, bevor der Reflow-Ofen lötet.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "2.1-1",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Woran richtet Marketing laut der Definition von Teufel das gesamte Unternehmen aus?",
+      "options": [
+        "Am Kundennutzen",
+        "An der Produktqualität",
+        "An den Produktionskosten",
+        "An der Technologieführerschaft"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Definition richtet Marketing das gesamte Unternehmen am Kundennutzen aus; nicht das Produkt, sondern der Vorteil für den Kunden steht im Mittelpunkt.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "2.1-2",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Was steht laut der Definition im Mittelpunkt des Marketings statt des Produkts?",
+      "options": [
+        "Der Vorteil für den Kunden",
+        "Der Umsatz des Unternehmens",
+        "Die technische Spezifikation",
+        "Der Vertriebskanal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nicht das Produkt, sondern der Vorteil für den Kunden steht im Mittelpunkt - rational und emotional.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "2.1-3",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Wie lautet Teufels zentrales Mantra zum Marketing?",
+      "options": [
+        "Wir verkaufen keine Produkte, wir verkaufen Vorteile.",
+        "Wir verkaufen keine Vorteile, wir verkaufen Qualität.",
+        "Wir verkaufen keine Produkte, wir verkaufen den niedrigsten Preis.",
+        "Wir verkaufen keine Vorteile, wir verkaufen Marken."
+      ],
+      "correctIndex": 0,
+      "explanation": "Der Kern ist sein Mantra: Wir verkaufen keine Produkte, wir verkaufen Vorteile.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "2.1-4",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Aus welchen vier Hebeln besteht der operative Marketing-Mix (4P)?",
+      "options": [
+        "Produkt, Preis, Vertrieb, Kommunikation",
+        "Produkt, Preis, Personal, Prozess",
+        "Produkt, Promotion, Profit, Positionierung",
+        "Preis, Vertrieb, Personal, Planung"
+      ],
+      "correctIndex": 0,
+      "explanation": "Operativ wird Marketing über den Marketing-Mix (4P) greifbar: Produkt, Preis, Vertrieb, Kommunikation.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "2.1-5",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Welche zwei Schichten hat ein Vorteil laut Teufel?",
+      "options": [
+        "Den rationalen und den emotionalen Nutzen",
+        "Den objektiven und den subjektiven Preis",
+        "Den kurzfristigen und den langfristigen Gewinn",
+        "Den internen und den externen Wert"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ein Vorteil hat zwei Schichten: den rationalen Nutzen (sachliche Leistung) und den emotionalen Nutzen (das Gefühl dahinter).",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "2.1-6",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Wie unterscheidet Teufel den rationalen vom emotionalen Nutzen?",
+      "options": [
+        "Rationaler Nutzen ist die sachliche Leistung (was kann ich damit tun?), emotionaler Nutzen ist das Gefühl dahinter (wie fühle ich mich damit?).",
+        "Rationaler Nutzen ist das Gefühl dahinter, emotionaler Nutzen ist die sachliche Leistung.",
+        "Rationaler Nutzen ist der Preis, emotionaler Nutzen ist die Qualität des Produkts.",
+        "Rationaler Nutzen betrifft Privatkunden, emotionaler Nutzen betrifft Geschäftskunden."
+      ],
+      "correctIndex": 0,
+      "explanation": "Der rationale Nutzen ist die sachliche Leistung (was kann ich damit tun?), der emotionale Nutzen ist das Gefühl dahinter (wie fühle ich mich damit?).",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "2.1-7",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Wie illustriert Teufel den rationalen und emotionalen Nutzen anhand der Bohrer-Metapher?",
+      "options": [
+        "Rational verkauft man Löcher, emotional Bewunderung, ein schöneres Heim und Erfolgserlebnisse.",
+        "Rational verkauft man Bewunderung, emotional die Löcher und die Bohrleistung.",
+        "Rational verkauft man die Bohrleistung, emotional einen günstigen Preis.",
+        "Rational verkauft man den Bohrer selbst, emotional die Garantieleistung."
+      ],
+      "correctIndex": 0,
+      "explanation": "Teufel sagt: Wir verkaufen keine Bohrer, wir verkaufen Löcher (rational) - und Bewunderung, ein schöneres Heim, Erfolgserlebnisse (emotional).",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "2.1-8",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Wie lautet das von Teufel gern zitierte Kotler-Zitat zur Abgrenzung von Verkauf und Marketing?",
+      "options": [
+        "Verkauf bringt die Produkte zum Kunden, Marketing bringt die Kunden zum Produkt.",
+        "Marketing bringt die Produkte zum Kunden, Verkauf bringt die Kunden zum Produkt.",
+        "Verkauf und Marketing bringen gemeinsam die Produkte zum Kunden.",
+        "Marketing bringt den Preis zum Kunden, Verkauf bringt das Produkt zum Markt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Das Kotler-Zitat lautet: Verkauf bringt die Produkte zum Kunden, Marketing bringt die Kunden zum Produkt - Marketing ist also die strategische Vorarbeit.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "2.1-9",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Was lässt sich aus dem Kotler-Zitat über das Verhältnis von Marketing zum bloßen Abverkaufen ableiten?",
+      "options": [
+        "Marketing ist die strategische Vorarbeit und nicht das bloße Abverkaufen.",
+        "Marketing ist identisch mit dem Abverkaufen der Produkte.",
+        "Marketing folgt zeitlich immer erst nach dem Verkauf.",
+        "Marketing ersetzt den Verkauf vollständig im Unternehmen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Text ist Marketing die strategische Vorarbeit, nicht das bloße Abverkaufen.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "2.1-10",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Wie grenzt Teufel Strategie und Marketing voneinander ab?",
+      "options": [
+        "Strategie beantwortet Wohin geht die Reise?, Marketing beantwortet Wie reisen wir dorthin?",
+        "Strategie beantwortet Wie reisen wir dorthin?, Marketing beantwortet Wohin geht die Reise?",
+        "Strategie betrifft den Preis, Marketing betrifft das Produkt.",
+        "Strategie ist operativ, Marketing ist rein finanziell ausgerichtet."
+      ],
+      "correctIndex": 0,
+      "explanation": "Teufel zieht die Trennlinie zwischen Strategie (Wohin geht die Reise?) und Marketing (Wie reisen wir dorthin?).",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "2.1-11",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Was besagt Teufels Angler-Regel für die Gestaltung des Kundennutzens?",
+      "options": [
+        "Der Wurm muss dem Fisch schmecken, nicht dem Angler - und für jeden Fisch braucht es andere Würmer.",
+        "Der Wurm muss dem Angler schmecken, nicht dem Fisch - dann beißt jeder Fisch an.",
+        "Für alle Fische reicht stets derselbe Wurm, solange er hochwertig ist.",
+        "Der Angler bestimmt objektiv, welcher Wurm für jeden Fisch der beste ist."
+      ],
+      "correctIndex": 0,
+      "explanation": "Die Angler-Regel lautet: Der Wurm muss dem Fisch schmecken, nicht dem Angler - und für jeden Fisch braucht es andere Würmer.",
+      "difficulty": "mittel"
+    },
+    {
+      "id": "2.1-12",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Welche Schlussfolgerung zieht Teufel aus der Angler-Regel für den Nutzen?",
+      "options": [
+        "Der Nutzen ist nicht objektiv fix, sondern muss in die Sprache der jeweiligen Zielgruppe übersetzt werden.",
+        "Der Nutzen ist objektiv festgelegt und für alle Zielgruppen identisch.",
+        "Der Nutzen ergibt sich allein aus den technischen Eigenschaften des Produkts.",
+        "Der Nutzen wird ausschließlich über den Preis kommuniziert."
+      ],
+      "correctIndex": 0,
+      "explanation": "Heißt: Der Nutzen ist nicht objektiv fix, sondern muss in die Sprache der jeweiligen Zielgruppe übersetzt werden; dasselbe Produkt verlangt je Zielgruppe andere Argumente.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "2.1-13",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Welcher Fehler wird im Text als typischer Fehler beim Prüfer genannt?",
+      "options": [
+        "Bei der reinen Produktbeschreibung steckenzubleiben.",
+        "Den emotionalen Nutzen über den rationalen zu stellen.",
+        "Den Marketing-Mix in falscher Reihenfolge zu nennen.",
+        "Das Kotler-Zitat fälschlich Teufel zuzuschreiben."
+      ],
+      "correctIndex": 0,
+      "explanation": "Typischer Fehler: bei der reinen Produktbeschreibung steckenbleiben - genau das will Teufel nicht hören.",
+      "difficulty": "leicht"
+    },
+    {
+      "id": "2.1-14",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Womit ist die Definition von Marketing laut dem Querbezug im Text verzweigt?",
+      "options": [
+        "Mit der Benefit Ladder, der Positionierung und dem Buying Center",
+        "Mit der SWOT-Analyse, dem Lebenszyklus und der Bilanz",
+        "Mit der Deckungsbeitragsrechnung und der Portfolio-Matrix",
+        "Mit der Wertschöpfungskette und dem Produktionsplan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Die Definition verzweigt zur Benefit Ladder (Eigenschaft, rationaler, emotionaler Vorteil), zur Positionierung und zum Buying Center.",
+      "difficulty": "schwer"
+    },
+    {
+      "id": "2.1-15",
+      "termId": "2.1",
+      "field": "Marketing",
+      "termTitle": "Definition von Marketing",
+      "question": "Wie überträgt der Autor das Mantra in der Brücke zur Bachelorarbeit auf seine Erfassungs-Platine?",
+      "options": [
+        "Er verkauft nicht die Platine, sondern Anlagentransparenz - Predictive Maintenance ist das Verkaufsargument, nicht die Hardware.",
+        "Er verkauft die Platine als technisch bestes Produkt mit der höchsten Genauigkeit.",
+        "Er verkauft die Hardware zum günstigsten Preis am Markt.",
+        "Er verkauft die Platine als emotionales Statussymbol für Techniker."
+      ],
+      "correctIndex": 0,
+      "explanation": "Laut Brücke zur Bachelorarbeit verkauft der Autor nicht eine Erfassungs-Platine, sondern Anlagentransparenz; der Vorteil Predictive Maintenance ist das Verkaufsargument, nicht die Hardware.",
+      "difficulty": "schwer"
+    }
+  ]
+}

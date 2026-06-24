@@ -1,0 +1,14 @@
+# Abhängigkeiten
+node_modules/
+
+# Temporäre Arbeitsdateien (PDF-Extraktion, Workflow, Roh-Fragen)
+scratch/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
