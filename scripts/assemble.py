@@ -135,7 +135,7 @@ def main():
         for s in issues[:20]:
             print("     " + s)
     if not missing and not low and not issues:
-        print("\n✅ Alle 55 Begriffe mit je 15 gültigen Fragen, keine Probleme.")
+        print(f"\n✅ Alle {len(terms_meta)} Begriffe mit je 15 gültigen Fragen, keine Probleme.")
 
     # Exit-Code für CI/Automatisierung
     return 0 if (not missing and len(questions) >= 600) else 1

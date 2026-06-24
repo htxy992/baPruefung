@@ -44,7 +44,7 @@ function clickByOrig(origs) {
     console.log("\n[1] Init / Startseite");
     assert(visible("screen-home"), "Startseite sichtbar nach Laden");
     assert($("fieldGrid").querySelectorAll(".field-chip").length === 3, "3 Gebiets-Kärtchen gerendert");
-    assert($("termList").querySelectorAll(".term-item").length === 55, "55 Begriffe in Liste");
+    assert($("termList").querySelectorAll(".term-item").length === data.terms.length, data.terms.length + " Begriffe in Liste");
     assert(data.questions.every((q) => q.options.length === 6), "Alle Fragen haben 6 Optionen (Daten)");
     assert(data.questions.every((q) => Array.isArray(q.correctIndices) && q.correctIndices.length >= 1), "Alle Fragen haben correctIndices (Daten)");
 
@@ -91,7 +91,7 @@ function clickByOrig(origs) {
     await tick(10);
     assert(visible("screen-stats"), "Statistik-Screen sichtbar");
     assert($("statsCards").children.length === 4, "4 Statistik-Karten");
-    assert($("statsTerms").querySelectorAll(".bar-row").length === 55, "55 Begriff-Fortschrittsbalken");
+    assert($("statsTerms").querySelectorAll(".bar-row").length === data.terms.length, data.terms.length + " Begriff-Fortschrittsbalken");
     const answered = parseInt($("statsCards").children[0].querySelector("b").textContent, 10);
     assert(answered >= 1, "Beantwortete Fragen werden gezählt (" + answered + ")");
 
