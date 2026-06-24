@@ -14,14 +14,17 @@ Es deckt alle **55 Begriffe** der drei Keyword-Listen ab (Anlagen 5.3, 5.7, 5.8 
 Die Fragen wurden aus der eigenen Lernunterlage erzeugt (je 15 pro Begriff, ~825 insgesamt) und enthalten
 Definition, Einordnung, Abgrenzungen, Beispiele und Detailwissen — jeweils mit Erklärung zur Lösung.
 
+**Format: Multiple-Response** — jede Frage hat **immer 6 Antwortoptionen** und **eine oder mehrere richtige**.
+Eine Frage zählt nur dann als richtig, wenn **genau** alle korrekten (und keine falschen) Optionen gewählt sind.
+
 ## ✨ Funktionen
 
-- **📝 Übungsmodus** — Frage für Frage mit sofortigem Feedback und Erklärung.
+- **📝 Übungsmodus** — alle zutreffenden Optionen auswählen → *Antwort prüfen* → sofortiges Feedback, inkl. übersehener/falsch gewählter Optionen und Erklärung.
 - **⏱️ Prüfungsmodus** — Zufallsziehung auf Zeit (10/15/25 min), Bewertung am Ende, wie die echte Begriffsrunde.
 - **🎯 Filter** — gezielt nach Gebiet oder einzelnen Begriffen üben.
 - **🔁 Falsch-beantwortete wiederholen** — eigener Wiederholungs-Stapel (Spaced-Repetition-light).
 - **📊 Statistik & Fortschritt** — Trefferquote pro Gebiet und Beherrschung pro Begriff, lokal gespeichert (`localStorage`).
-- **🌙 Hell-/Dunkel-Modus**, vollständig responsiv, Tastatursteuerung (A–D / 1–4, Enter).
+- **🌙 Hell-/Dunkel-Modus**, vollständig responsiv, Tastatursteuerung (A–F zum Aus-/Abwählen, Enter zum Prüfen/Weiter).
 
 ## 🗂️ Projektstruktur
 
@@ -70,10 +73,10 @@ Begriff-Dateien (`scratch/questions/<id>.json`) zusammen und validiert sie dabei
 python3 scripts/assemble.py
 ```
 
-Jede Begriff-Datei ist ein JSON-Array mit Objekten der Form:
+Jede Begriff-Datei ist ein JSON-Array mit Objekten der Form (6 Optionen, mehrere richtige möglich):
 
 ```json
-{ "question": "…", "options": ["A","B","C","D"], "correctIndex": 0, "explanation": "…", "difficulty": "leicht" }
+{ "question": "…", "options": ["o1","o2","o3","o4","o5","o6"], "correctIndices": [0, 2], "explanation": "…", "difficulty": "leicht" }
 ```
 
 ## ☁️ Deployment (GitHub Pages + Actions)

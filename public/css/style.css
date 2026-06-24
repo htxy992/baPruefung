@@ -196,7 +196,20 @@ h1, h2, h3 { line-height: 1.2; }
 .option.correct .opt-key { background: var(--green); color: #fff; }
 .option.wrong { border-color: var(--red); background: var(--red-soft); }
 .option.wrong .opt-key { background: var(--red); color: #fff; }
-.option .opt-mark { margin-left: auto; font-weight: 700; }
+.option .opt-mark { margin-left: auto; font-weight: 700; white-space: nowrap; }
+
+/* Multiple-Response: gewählt (vor dem Prüfen) */
+.option.selected { border-color: var(--primary); background: var(--primary-soft); }
+.option.selected .opt-key { background: var(--primary); color: #fff; }
+.option .opt-key { transition: background .12s, color .12s; }
+/* richtig, aber nicht gewählt */
+.option.missed { border-color: var(--green); border-style: dashed; background: var(--green-soft); }
+.option.missed .opt-key { background: var(--green); color: #fff; }
+
+/* Hinweis: Mehrfachauswahl */
+.q-hint { font-size: .85rem; color: var(--text-soft); background: var(--bg-soft);
+  border-radius: 9px; padding: .5rem .8rem; margin-bottom: 1rem; }
+.q-hint strong { color: var(--text); }
 
 .feedback { margin-top: 1.1rem; padding: 1rem; border-radius: 11px; border: 1px solid var(--border); background: var(--bg-soft); animation: fade .2s; }
 .feedback-head { font-weight: 700; margin-bottom: .3rem; }
@@ -240,6 +253,7 @@ h1, h2, h3 { line-height: 1.2; }
 .review-a .tag { font-weight: 700; }
 .review-a.correct .tag { color: var(--green); }
 .review-a.yours .tag { color: var(--red); }
+.review-a.miss .tag { color: var(--amber); }
 .review-expl { font-size: .85rem; color: var(--text-soft); margin-top: .4rem; }
 
 /* ===== Statistik ===== */

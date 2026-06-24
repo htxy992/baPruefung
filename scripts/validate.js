@@ -46,12 +46,17 @@ data.questions.forEach((q, i) => {
   if (!q.id || seenIds.has(q.id)) bad("fehlende/doppelte id");
   seenIds.add(q.id);
   if (typeof q.question !== "string" || q.question.trim().length < 5) bad("Fragetext zu kurz/fehlt");
-  if (!Array.isArray(q.options) || q.options.length !== 4) bad("braucht genau 4 Optionen");
+  if (!Array.isArray(q.options) || q.options.length !== 6) bad("braucht genau 6 Optionen");
   else {
     if (q.options.some((o) => typeof o !== "string" || !o.trim())) bad("leere Option");
-    if (new Set(q.options.map((o) => String(o).trim())).size !== 4) bad("doppelte Optionen");
+    if (new Set(q.options.map((o) => String(o).trim())).size !== 6) bad("doppelte Optionen");
   }
-  if (!Number.isInteger(q.correctIndex) || q.correctIndex < 0 || q.correctIndex > 3) bad("correctIndex muss 0–3 sein");
+  if (!Array.isArray(q.correctIndices) || q.correctIndices.length < 1) bad("correctIndices leer/fehlt");
+  else {
+    if (q.correctIndices.some((x) => !Number.isInteger(x) || x < 0 || x > 5)) bad("correctIndices muss 0–5 sein");
+    if (new Set(q.correctIndices).size !== q.correctIndices.length) bad("correctIndices doppelt");
+    if (q.correctIndices.length > 5) bad("zu viele richtige (max 5)");
+  }
   if (!q.termId || !termIds.has(q.termId)) bad("termId nicht in terms: " + q.termId);
   if (q.difficulty && DIFFICULTIES.indexOf(q.difficulty) < 0) bad("unbekannte difficulty: " + q.difficulty);
 });

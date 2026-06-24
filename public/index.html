@@ -118,7 +118,8 @@
       <div class="question-card">
         <div class="q-term" id="qTerm"></div>
         <h2 class="q-text" id="qText"></h2>
-        <div class="options" id="qOptions"></div>
+        <div class="q-hint" id="qHint">✔️ Mehrere Antworten möglich — wähle <strong>alle</strong> zutreffenden aus.</div>
+        <div class="options multi" id="qOptions"></div>
         <div class="feedback hidden" id="qFeedback">
           <div class="feedback-head" id="qFeedbackHead"></div>
           <p class="feedback-expl" id="qExplanation"></p>
@@ -126,6 +127,7 @@
       </div>
 
       <div class="quiz-foot">
+        <button class="primary-btn hidden" id="qCheck" type="button">Antwort prüfen</button>
         <button class="primary-btn hidden" id="qNext" type="button">Weiter →</button>
         <button class="primary-btn hidden" id="qFinish" type="button">Auswerten</button>
       </div>

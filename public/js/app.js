@@ -200,47 +200,75 @@
     fc.textContent = q.field + " · " + q.termId + " " + (term ? term.title : "");
 
     $("qText").textContent = q.question;
+    session.selected = {};      // orig-Index -> true
+    session.checked = false;
     var ob = $("qOptions"); ob.innerHTML = "";
-    var keys = ["A", "B", "C", "D"];
-    // Optionen pro Anzeige zufällig mischen (gegen Positions-Bias & Auswendiglernen)
-    shuffle([0, 1, 2, 3]).forEach(function (origIdx, pos) {
+    var keys = ["A", "B", "C", "D", "E", "F"];
+    // 6 Optionen pro Anzeige zufällig mischen (gegen Positions-Bias & Auswendiglernen)
+    shuffle([0, 1, 2, 3, 4, 5]).forEach(function (origIdx, pos) {
       var b = el("button", "option"); b.type = "button";
       b.dataset.orig = origIdx;
+      b.setAttribute("aria-pressed", "false");
       b.innerHTML = '<span class="opt-key">' + keys[pos] + '</span><span class="opt-text">' + esc(q.options[origIdx]) + "</span>";
-      b.addEventListener("click", function () { onAnswer(origIdx); });
+      b.addEventListener("click", function () { toggleOption(origIdx, b); });
       ob.appendChild(b);
     });
     $("qFeedback").classList.add("hidden");
-    $("qNext").classList.add("hidden");
-    $("qFinish").classList.add("hidden");
-    // bei bereits beantworteter Frage (Zurücknavigation gibt es nicht – immer frisch)
+    var exam = session.mode === "exam";
+    $("qCheck").classList.toggle("hidden", exam);   // Übung: erst prüfen; Prüfung: direkt weiter
+    if (exam) showLastButton();
+    else { $("qNext").classList.add("hidden"); $("qFinish").classList.add("hidden"); }
   }
 
-  function onAnswer(choice) {
-    var q = session.questions[session.idx];
-    var isCorrect = choice === q.correctIndex;
-    session.answers[session.idx] = { choice: choice, correct: isCorrect };
-    var btns = $("qOptions").querySelectorAll(".option");
-    btns.forEach(function (b) {
-      b.disabled = true;
-      var orig = parseInt(b.dataset.orig, 10);
-      if (orig === q.correctIndex) b.classList.add("correct");
-      if (orig === choice && !isCorrect) b.classList.add("wrong");
-      if (orig === choice) b.querySelector(".opt-text").insertAdjacentHTML("beforeend",
-        '<span class="opt-mark">' + (isCorrect ? " ✔" : " ✗") + "</span>");
-    });
+  function toggleOption(orig, btn) {
+    if (session.checked) return;                    // nach dem Prüfen gesperrt
+    if (session.selected[orig]) { delete session.selected[orig]; btn.classList.remove("selected"); btn.setAttribute("aria-pressed", "false"); }
+    else { session.selected[orig] = true; btn.classList.add("selected"); btn.setAttribute("aria-pressed", "true"); }
+  }
 
-    if (session.mode === "exam") {
-      // Direkt weiter, kein Feedback
-      setTimeout(advance, 220);
-    } else {
-      recordAnswer(q, isCorrect);  // Übung/Wiederholung: sofort verbuchen
-      var fb = $("qFeedback");
-      fb.className = "feedback " + (isCorrect ? "ok" : "no");
-      $("qFeedbackHead").textContent = isCorrect ? "✔ Richtig!" : "✗ Leider falsch";
-      $("qExplanation").textContent = q.explanation || "";
-      showLastButton();
-    }
+  function selectedSet() { return Object.keys(session.selected).map(Number); }
+
+  function isAnswerCorrect(q) {                      // exakte Mengengleichheit
+    var sel = selectedSet(), corr = q.correctIndices;
+    if (sel.length !== corr.length) return false;
+    for (var i = 0; i < corr.length; i++) if (!session.selected[corr[i]]) return false;
+    return true;
+  }
+
+  function markOptions(q) {
+    $("qOptions").querySelectorAll(".option").forEach(function (b) {
+      var orig = parseInt(b.dataset.orig, 10);
+      var isCorr = q.correctIndices.indexOf(orig) >= 0;
+      var sel = !!session.selected[orig];
+      b.disabled = true;
+      b.classList.remove("selected");
+      var mark = "";
+      if (isCorr && sel) { b.classList.add("correct"); mark = " ✔"; }
+      else if (isCorr && !sel) { b.classList.add("missed"); mark = " ✔ übersehen"; }
+      else if (!isCorr && sel) { b.classList.add("wrong"); mark = " ✗"; }
+      if (mark) b.querySelector(".opt-text").insertAdjacentHTML("beforeend", '<span class="opt-mark">' + mark + "</span>");
+    });
+  }
+
+  function checkAnswer() {                            // Übung / Wiederholung
+    if (session.checked) return;
+    var q = session.questions[session.idx];
+    var isCorrect = isAnswerCorrect(q);
+    session.answers[session.idx] = { selected: selectedSet(), correct: isCorrect };
+    session.checked = true;
+    recordAnswer(q, isCorrect);
+    markOptions(q);
+    var fb = $("qFeedback");
+    fb.className = "feedback " + (isCorrect ? "ok" : "no");
+    $("qFeedbackHead").textContent = isCorrect ? "✔ Richtig!" : "✗ Nicht ganz";
+    $("qExplanation").textContent = q.explanation || "";
+    $("qCheck").classList.add("hidden");
+    showLastButton();
+  }
+
+  function recordCurrentExam() {                      // Prüfungsmodus: Auswahl ohne Feedback sichern
+    var q = session.questions[session.idx];
+    session.answers[session.idx] = { selected: selectedSet(), correct: isAnswerCorrect(q) };
   }
 
   function showLastButton() {
@@ -250,6 +278,7 @@
   }
 
   function advance() {
+    if (session.mode === "exam") recordCurrentExam();
     if (session.idx < session.questions.length - 1) { session.idx++; renderQuestion(); }
     else finishQuiz();
   }
@@ -306,16 +335,20 @@
 
   function renderReview() {
     var rl = $("reviewList"); rl.innerHTML = "";
-    var keys = ["A", "B", "C", "D"];
     session.questions.forEach(function (q, i) {
       var a = session.answers[i];
       var ok = a && a.correct;
+      var sel = (a && a.selected) || [];
       var item = el("div", "review-item" + (ok ? " ok" : ""));
+      var correctTxt = q.correctIndices.map(function (ci) { return esc(q.options[ci]); }).join(" · ");
       var html = '<div class="review-q">' + (i + 1) + ". " + esc(q.question) + "</div>";
-      html += '<div class="review-a correct"><span class="tag">✔ Richtig:</span> ' + keys[q.correctIndex] + ") " + esc(q.options[q.correctIndex]) + "</div>";
+      html += '<div class="review-a correct"><span class="tag">✔ Richtig:</span> ' + correctTxt + "</div>";
       if (!ok) {
-        var yourTxt = a ? (keys[a.choice] + ") " + esc(q.options[a.choice])) : "— nicht beantwortet —";
-        html += '<div class="review-a yours"><span class="tag">✗ Deine Antwort:</span> ' + yourTxt + "</div>";
+        var wrongPicks = sel.filter(function (s) { return q.correctIndices.indexOf(s) < 0; }).map(function (s) { return esc(q.options[s]); });
+        var missed = q.correctIndices.filter(function (ci) { return sel.indexOf(ci) < 0; }).map(function (ci) { return esc(q.options[ci]); });
+        if (wrongPicks.length) html += '<div class="review-a yours"><span class="tag">✗ Falsch gewählt:</span> ' + wrongPicks.join(" · ") + "</div>";
+        if (missed.length) html += '<div class="review-a miss"><span class="tag">⚠ Übersehen:</span> ' + missed.join(" · ") + "</div>";
+        if (!sel.length) html += '<div class="review-a yours"><span class="tag">—</span> nichts ausgewählt</div>';
       }
       if (q.explanation) html += '<div class="review-expl">💡 ' + esc(q.explanation) + "</div>";
       item.innerHTML = html;
@@ -391,8 +424,9 @@
     $("startRetry").addEventListener("click", function () { startQuiz("retry", {}); });
     $("clearRetry").addEventListener("click", function () { if (confirm("Liste der falsch beantworteten Fragen leeren?")) { save(LS.wrong, []); renderRetryRow(); } });
 
+    $("qCheck").addEventListener("click", checkAnswer);
     $("qNext").addEventListener("click", advance);
-    $("qFinish").addEventListener("click", finishQuiz);
+    $("qFinish").addEventListener("click", function () { if (session && session.mode === "exam") recordCurrentExam(); finishQuiz(); });
     $("quizQuit").addEventListener("click", quitQuiz);
 
     $("resultReview").addEventListener("click", renderReview);
@@ -412,17 +446,18 @@
       }
     });
 
-    // Tastatur: A–D / 1–4 zum Antworten, Enter = Weiter
+    // Tastatur: A–F / 1–6 zum Aus-/Abwählen, Enter = Prüfen bzw. Weiter
     document.addEventListener("keydown", function (e) {
-      if ($("screen-quiz").classList.contains("hidden")) return;
-      var map = { a: 0, b: 1, c: 2, d: 3, "1": 0, "2": 1, "3": 2, "4": 3 };
+      if ($("screen-quiz").classList.contains("hidden") || !session) return;
+      var map = { a: 0, b: 1, c: 2, d: 3, e: 4, f: 5, "1": 0, "2": 1, "3": 2, "4": 3, "5": 4, "6": 5 };
       var k = e.key.toLowerCase();
-      if (map[k] != null && session) {
+      if (map[k] != null) {
         var btns = $("qOptions").querySelectorAll(".option");
-        if (btns[map[k]] && !btns[map[k]].disabled) btns[map[k]].click();
+        if (btns[map[k]]) btns[map[k]].click();
       } else if (e.key === "Enter") {
-        if (!$("qNext").classList.contains("hidden")) advance();
-        else if (!$("qFinish").classList.contains("hidden")) finishQuiz();
+        if (!$("qCheck").classList.contains("hidden")) checkAnswer();
+        else if (!$("qNext").classList.contains("hidden")) advance();
+        else if (!$("qFinish").classList.contains("hidden")) { if (session.mode === "exam") recordCurrentExam(); finishQuiz(); }
       }
     });
   }

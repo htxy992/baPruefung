@@ -24,15 +24,21 @@ def valid_question(q):
     if not isinstance(q.get("question"), str) or len(q["question"].strip()) < 5:
         return False, "Fragetext fehlt/zu kurz"
     opts = q.get("options")
-    if not isinstance(opts, list) or len(opts) != 4:
-        return False, "braucht 4 Optionen"
+    if not isinstance(opts, list) or len(opts) != 6:
+        return False, "braucht 6 Optionen"
     if any(not isinstance(o, str) or not o.strip() for o in opts):
         return False, "leere Option"
-    if len({o.strip() for o in opts}) != 4:
+    if len({o.strip() for o in opts}) != 6:
         return False, "doppelte Optionen"
-    ci = q.get("correctIndex")
-    if not isinstance(ci, int) or not (0 <= ci <= 3):
-        return False, "correctIndex 0-3"
+    ci = q.get("correctIndices")
+    if not isinstance(ci, list) or len(ci) < 1:
+        return False, "correctIndices leer/fehlt"
+    if any((not isinstance(x, int)) or isinstance(x, bool) or x < 0 or x > 5 for x in ci):
+        return False, "correctIndices muss 0-5 sein"
+    if len(set(ci)) != len(ci):
+        return False, "correctIndices doppelt"
+    if len(set(ci)) > 5:
+        return False, "zu viele richtige (max 5)"
     return True, ""
 
 
@@ -82,7 +88,7 @@ def main():
                 "termTitle": t["title"],
                 "question": q["question"].strip(),
                 "options": [o.strip() for o in q["options"]],
-                "correctIndex": q["correctIndex"],
+                "correctIndices": sorted(set(int(x) for x in q["correctIndices"])),
                 "explanation": (q.get("explanation") or "").strip(),
                 "difficulty": diff,
             })
@@ -91,6 +97,8 @@ def main():
     data = {
         "meta": {
             "generated": date.today().isoformat(),
+            "format": "multiple-response",
+            "optionsPerQuestion": 6,
             "totalQuestions": len(questions),
             "terms": len(terms_meta),
             "fields": len(fields),
@@ -105,10 +113,16 @@ def main():
 
     # Bericht
     print(f"Geschrieben: {OUT}")
+    print(f"Format: Multiple-Response (6 Optionen, mehrere richtige)")
     print(f"Fragen gesamt: {len(questions)}  |  Begriffe: {len(terms_meta)}  |  Gebiete: {len(fields)}")
     for f in fields:
         n = sum(1 for q in questions if q["field"] == f)
         print(f"  • {f}: {n}")
+    dist = {}
+    for q in questions:
+        k = len(q["correctIndices"])
+        dist[k] = dist.get(k, 0) + 1
+    print("  richtige Antworten/Frage: " + ", ".join(f"{k}x→{dist[k]}" for k in sorted(dist)))
     low = [tid for tid, n in per_term.items() if n < 15]
     if missing:
         print(f"\n⚠️  FEHLENDE Begriff-Dateien ({len(missing)}): {', '.join(missing)}")
