@@ -202,10 +202,12 @@
     $("qText").textContent = q.question;
     var ob = $("qOptions"); ob.innerHTML = "";
     var keys = ["A", "B", "C", "D"];
-    q.options.forEach(function (opt, i) {
+    // Optionen pro Anzeige zufällig mischen (gegen Positions-Bias & Auswendiglernen)
+    shuffle([0, 1, 2, 3]).forEach(function (origIdx, pos) {
       var b = el("button", "option"); b.type = "button";
-      b.innerHTML = '<span class="opt-key">' + keys[i] + '</span><span class="opt-text">' + esc(opt) + "</span>";
-      b.addEventListener("click", function () { onAnswer(i); });
+      b.dataset.orig = origIdx;
+      b.innerHTML = '<span class="opt-key">' + keys[pos] + '</span><span class="opt-text">' + esc(q.options[origIdx]) + "</span>";
+      b.addEventListener("click", function () { onAnswer(origIdx); });
       ob.appendChild(b);
     });
     $("qFeedback").classList.add("hidden");
@@ -219,11 +221,12 @@
     var isCorrect = choice === q.correctIndex;
     session.answers[session.idx] = { choice: choice, correct: isCorrect };
     var btns = $("qOptions").querySelectorAll(".option");
-    btns.forEach(function (b, i) {
+    btns.forEach(function (b) {
       b.disabled = true;
-      if (i === q.correctIndex) b.classList.add("correct");
-      if (i === choice && !isCorrect) b.classList.add("wrong");
-      if (i === choice) b.querySelector(".opt-text").insertAdjacentHTML("beforeend",
+      var orig = parseInt(b.dataset.orig, 10);
+      if (orig === q.correctIndex) b.classList.add("correct");
+      if (orig === choice && !isCorrect) b.classList.add("wrong");
+      if (orig === choice) b.querySelector(".opt-text").insertAdjacentHTML("beforeend",
         '<span class="opt-mark">' + (isCorrect ? " ✔" : " ✗") + "</span>");
     });
 
